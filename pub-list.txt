@@ -1,2795 +1,2795 @@
-The Compiler zvishes to express his 
-The Whale and the Crow, 
-The Razor and Hen, 
-The Leg, Seven Stars, 
-The Scissors and Pen, 
-The Axe and the Bottle, 
-The Tun and the Lute, 
-The Eagle and Child, 
-The Shovel, The Boot. 
-The Most Ancient Inns 
-The Highest Inns 
-The Agricultural 
-The Harvest Home 
-The Plough 
-The Fen Plough 
-The Ploughshare 
-The Plough and Fleece 
-The Plough and Sickle 
-The Plough and Harrow 
-The Harrow 
-The Ploughboy 
-The Farmer's Boy 
-The Jolly Farmer 
-The Jolly Farmers 
-The Jolly Dealers 
-The Jolly Gardener 
-The Jolly Gardeners 
-The Market Gardener 
-The Yeoman 
-The Kentish Yeoman 
-The Graziers 
-The Shepherd 
-The Shepherd and Shep- 
-The Shepherd and Flock 
-The Shepherd and Dog 
-The Quiet Shepherd 
-The Sheep Shearers 
-The Fold Gate 
-The Dog and Crook 
-The Hurdle 
-The Fleece 
-The John Barleycorn 
-The Barley Mow 
-The Drovers 
-The Little Drover 
-The Cowherds 
-The Cow and Pail 
-The Jolly Waggoner 
-The Jolly Waggoners 
-The Kentish Waggoners 
-The \^'aggon 
-The Waggon and Horses 
-The Jolly Carter 
-The Cart and Horses 
-The Cart Overthrown 
-The Dray and Horses 
-The Horse and Sacks 
-The Horse and Dorsers 
-The Horse and Chains 
-The Horse and Gear 
-The Horse and Farrier 
-The Horse and Harrow 
-The Horse and Drill 
-The Haycock 
-The Hay Field 
-The Load of Hay 
-The Hay Cutters 
-The Hay Makers 
-The Harvest Man 
-The Labourers' L'nion 
-The Bushel 
-The Bushel and Strike 
-The Drill 
-The Mill 
-The Millstone 
-The Wind Mill 
-The Water Mill 
-The Market 
-The Cattle Market 
-The Drover's Call 
-The Hand 
-The Cross Hands 
-The Bird in Hand 
-The Bird i' th' ?Iand 
-The Book in Hand 
-The Friend in Hand 
-The Flower in Hand 
-The Hammer in Hand 
-The Hand in Hand 
-The Hat in Hand 
-The Spear in Hand 
-The Sword in Hand 
-The Hand and Cleaver 
-The Hand and Crown 
-The Hand and Flower 
-The Hand and Glove 
-The Hand and Marigold 
-The Hand and Mace 
-The Hand and Racquet 
-The Hand and Shears 
-The Hand and Spear 
-The Hand and Shuttle 
-The Hand and Sceptre 
-The Bleeding Heart 
-The Heart in Hand 
-The Heart and Hand 
-The Hearts of Gold 
-The Hearts of Oak 
-The Bones Gate 
-The Blade Bone 
-The WTiale Bone 
-The St. Andrew's Head 
-The St. Edmund's Head 
-The St. Luke's Head 
-The King's Head 
-The Queen's Head 
-The King Alfred's Head 
-The King Charles' Head 
-The King Harold's Head 
-The Admiral's Head 
-The Nelson's Head 
-The Black's Head 
-The Negro's Head 
-The Saracen's Head 
-The Turk's Head 
-The Barnardiston Head 
-The Beckford Head 
-The Bedford Head 
-The Burns Head 
-The Birches' Head 
-The Bear's Head 
-The Boar's Head 
-The Bull's Head 
-The Buffalo's Head 
-The Butler's Head 
-The Camel's Head 
-The Calf's Head 
-The Duke's Head 
-The Druid's Head 
-The Essex Head 
-The Friar's Head 
-The Goat's Head. 
-The Griffin's Head 
-The Garrick Head 
-The Hind's Head 
-The Hart's Head 
-The Kemble's Head 
-The Lion's Head 
-The Lode's Head 
-The Marlborough Head 
-The Milton's Head 
-The Maid's Head 
-The Maiden's Head 
-The Newby Head 
-The Nag's Head 
-The Parr's Head 
-The Pitt's Head 
-The Paxton Head 
-The Prince's Head 
-The Princess' Head 
-The Pope's Head 
-The Rodney Head 
-The Ram's Head 
-The Stag's Head 
-The Squirrel's Head 
-The Wilkes Head 
-The Wallace Head 
-The Whitmore Head 
-The Zoological 
-The Dog 
-The Barking Dogs 
-The Pointer 
-The Pointers 
-The Spaniel Dog 
-The Hound 
-The Fox Hound 
-The Greyhound 
-The Greyhound Pup 
-The Talbot 
-The Dog and Badger 
-The Dog and Bull 
-The Dog and Fox 
-The Horse 
-The Arabian Horse 
-The Bleeding Horse 
-The Flying Horse 
-The Pegasus 
-The Rampant Horse 
-The Wild Horse 
-The Sumpter Horse 
-The Pack Horse 
-The Pack Horse and 
-The Shetland Pony 
-The Fox and Pony 
-The Fox and Yorkshire 
-The Fox 
-The Intrepid Fox 
-The \\^leatland Fox 
-The Fox under the Hill 
-The Young Fox 
-The Fox and Cubs 
-The Fox's Brush 
-The Cat 
-The Civet Cat 
-The Cat and Lion 
-The Cat and Tiger 
-The Boar 
-The Hampshire Hog 
-The Hog in the Pound 
-The Grunting Hog 
-The Sow and Pigs 
-The Bull 
-The Little Bull 
-The Winged Bull 
-The Bull and Dog 
-The Ox 
-The Durham Ox 
-The Brocklesby Ox 
-The Ketton Ox 
-The Wild Ox 
-The Buffalo 
-The Cow and Calf 
-The Heifer 
-The Airedale Heifer 
-The Craven Heifer 
-The \\'ensleydale Heifer 
-The Zebra 
-The Giraffe 
-The Unicorn 
-The Lion and Unicorn 
-The Lion 
-The Lion in the Wood 
-The Ramping Lion 
-The Lion and Lamb 
-The Tiger 
-The Tigress 
-The Leopard 
-The Panther 
-The Elephant 
-The Buck 
-The Buck and Dog 
-The Running Buck 
-The Wounded Hart 
-The Hart's Horns 
-The Horns 
-The Stag 
-The Royal Stag 
-The Bald Faced Stag 
-The Hunted Stag 
-The Antelope 
-The Roebuck 
-The Reindeer 
-The Rabbit 
-The Hare 
-The Lamb 
-The Wiltshire Lamb 
-The Ram 
-The Goat 
-The Royal Goat 
-The Ibex 
-The \^^olf 
-The Griffin 
-The Monster 
-The Phoenix 
-The Polar Bear 
-The Grampus 
-The Crocodile 
-The Porcupine 
-The Sea Horse 
-The Squirrel 
-The Otter 
-The Beaver 
-The Cockatrice 
-The Essex Serpent 
-The Bee 
-The Busy Bee 
-The Grasshopper 
-The Midge 
-The Albert Arms 
-The Aston Arms 
-The Abingdon Arms 
-The Althorpe Arms 
-The Ashburnhara Arms 
-The Affleck Arms 
-The Anson Arms 
-The Abergavenny Arms 
-The Ailesbury Arms 
-The Amhurst Arms 
-The Abercorn Arms 
-The Assheton Arms 
-The Askew Arms 
-The Ashley Arms 
-The Anstey Arms 
-The Acland Arms 
-The Alford Arms 
-The Arundel Arms 
-The Buckinghamshire - 
-The Bankes Arms 
-The Bent Arms 
-The Bedford Arms 
-The Bancroft Arms 
-The Boyne Arms 
-The Bridgewater Arms 
-The Blenheim Arms 
-The Beauchamp Arms 
-The Barne Arms 
-The Bedingfield Arms 
-The Bolton Arms 
-The Biddulph Arms 
-The Barnardiston Arms 
-The Bristol Arms 
-The Bunbury Arms 
-The Baker Arms 
-The Baker's Arms 
-The Builders' Arms 
-The Butchers' Arms 
-The Boat Builders' Arms 
-The Brickmakers' Arms 
-The Brushmakers' Arms 
-The Boilermakers' Arms 
-The Blacksmiths' Arms 
-The Bricklayers' Arms 
-The Brewers' Arms 
-The Cross Keys 
-The Carters' Arms 
-The Carriers' Arms 
-The Curriers' Arms 
-The Coopers' Arms 
-The Carpenters' Arms 
-The Cricketers' Arms 
-The Coachmakers' Arms 
-The Colliers' Arms 
-The Clothiers' Arms 
-The Coalminers' Arms 
-The College Arms 
-The Cavalry Arms 
-The Corporation Arms 
-The Castle Arms 
-The City Arms 
-The Caledonian Arms 
-The County Arms 
-The Cadogan Arms 
-The Colville Arms 
-The Caxton Arms 
-The Culford Arms 
-The Cavendish Arms 
-The Chandos Arms 
-The Clarendon Arms 
-The Cranley Arms 
-The Coburg Arms 
-The Dundas Arms 
-The Dartmouth Arms 
-The Dysart Arms 
-The Devonshire Arms 
-The Durell Arms 
-The Dra^'ton Arms 
-The Dyers' Arms 
-The Druids' Arms 
-The Dorset Arms 
-The Derby Arms 
-The Dimsdale Arms 
-The Daniel Arms 
-The Ellison Arms 
-The Exeter Arms 
-The Engineers' Arms 
-The Floral Arms 
-The Fullers' Arms 
-The Footballers' Arms 
-The Foresters' Arms 
-The Farriers' Arms 
-The Farmers' Arms 
-The Fishmongers' Arms 
-The Factory Arms 
-The Foundry Arms 
-The Fishers' Arms 
-The Fanciers' Arms 
-The Fife Arms 
-The Finborough Arms 
-The Fitzroy Arms 
-The Falkland Arms 
-The FitzWilliam Arms 
-The Garden Arms 
-The Gardeners' Arms 
-The Glovers' Arms 
-The Glaziers' Arms 
-The Gregorian Arms 
-The Golddiggers' Arms 
-The Gravediggers' Arms 
-The Gordon Arms 
-The Gladstone Arms 
-The Gunter Arms 
-The Grosvenor Arms 
-The Haberdashers' Arms 
-The Hotpressers' Arms 
-The Hunters' Arms 
-The Hufflers' Arms 
-The Hoste Arms 
-The Herschel Arms 
-The Harewood Arms 
-The Hare Arms 
-The Hoskins Arms 
-The Hardwicke Arms 
-The Havelock Arms 
-The Ince Arms 
-The Ivor Arms 
-The Ipswich Arms 
-The Ironmongers' Arms 
-The Jubilee Arms 
-The Joiners' Arms 
-The Jerningham Arms 
-The Keigwin Arms 
-The Kimberley Arms 
-The King's Arms 
-The Lord Arran's Arms 
-The Lord Conyers' Arms 
-The Lord Monson's Arms 
-The Lord Howe's Arms 
-The Lord Somers' Arms 
-The Lady Owen's Arms 
-The Leathersellers' Arms 
-The Lovat Arms 
-The Lytton Arms 
-The Lowther Arms 
-The Lincoln Arms 
-The Lillie Arms 
-The Leicester Arms 
-The Luttrell Arms 
-The L)^gon Arms 
-The Leeds Arms 
-The Duke of Leeds' Arms 
-The Lansdowne Arms 
-The Liverpool Arms 
-The Lyttleton Arms 
-The Montagu Arms 
-The Montague Arms 
-The Millers' Arms 
-The Minders' Arms 
-The Miners' Arms 
-The Masons' Arms 
-The Mariners' Arms 
-The Mechanics' Arms 
-The Merton Arms 
-The Manners' Arms 
-The Man vers' Arms 
-The Navy Arms 
-The Norfolk Arms 
-The Norwich Arms 
-The Northumberland 
-The Needlemakers' Arms 
-The Oddfellows' Arms 
-The Oilmillers' Arms 
-The Osney Arms 
-The Orleans Arms 
-The Offord Arms 
-The Orford Arms 
-The Oxford Arms 
-The Ordnance Arms 
-The Princes' Arms 
-The Prince of Wales' 
-The Painters' Arms 
-The Printers' Arms 
-The Papermakers' Arms 
-The Potters' Arms 
-The Porters' Arms 
-The Platelayers' Arms 
-The Plumbers* Arms 
-The Pencutters' Arms 
-The Parker Arms 
-The Parkers' Arms 
-The Portsmouth Arms 
-The Pocock Arms 
-The Poulett Arms 
-The Portland Arms 
-The Portman Arms 
-The Queen's Arms 
-The Quarryman's Arms 
-The Royal Arms 
-The Ro3'al Naval Arms 
-The Royal Essex Arms 
-The Rockingham Arms 
-The Rutland Arms 
-The Redclifife Arms 
-The Railway Arms 
-The Rifle Arms 
-The Rifleman's Arms 
-The Stockton Arms 
-The Scutchers' Arms 
-The Sportsman's Arms 
-The Shepherds' Arms 
-The Skinners' Arms 
-The Soldiers' Arms 
-The Shipwrights' Arms 
-The Spinners' Arms 
-The Stonemasons' Arms 
-The Shard Arms 
-The Stanhope Arms 
-The Seymour Arms 
-The Somerset Arms 
-The Sergison Arms 
-The Spencer Arms 
-The Sussex Arms 
-The Stradbroke Arms 
-The Tregonwell Arms 
-The Tharp Arms 
-The Trevor Arms 
-The Townsend Arms 
-The Telegraph Arms 
-The Tailors' Arms 
-The Turners' Arms 
-The Tanners' Arms 
-The Thatchers' Arms 
-The Trinity Arms 
-The Unthank Arms 
-The Unwin Arms 
-The Union Arms 
-The University Arms 
-The Uxbridge Arms 
-The Victoria Arms 
-The Volunteer Arms 
-The Volunteers' Arms 
-The Verulam Arms 
-The Vane Arms 
-The Vernon Arms 
-The Wine Cooper's Arms 
-The Weavers' Arms 
-The Waterman's Arms 
-The Welldiggers' Arms 
-The Woodcutters' Arms 
-The Woodman's Arms 
-The Woodman's Arms 
-The Worsteddealers' Arms 
-The W'restlers' Arms 
-The \Miarncliffe Arms 
-The Wharton Arms 
-The Windham Arms 
-The Wyndham Arms 
-The W'illoughby Arms 
-The Wake Arms 
-The Yarmouth Arms 
-The Yachtsman's Arms 
-The Zetland Arms 
-The Sun 
-The Rising Sun 
-The Noon Svm 
-The Sun Rising 
-The Sun in Wood 
-The Sun in Sands 
-The Sun in Splendour 
-The Full Moon 
-The Half Moon 
-The Moon and Stars 
-The Half Moon and Star 
-The Half Moon and 
-The Star 
-The Morning Star 
-The Glittering Star 
-The Rising Star 
-The North Star 
-The South Star 
-The Star in East 
-The Star of India 
-The Rainbow 
-The Eclipse 
-The Magnet 
-The Compass 
-The Compasses 
-The Rule and Compasses 
-The Square and Com- 
-The Mariner's Compass 
-The Scales 
-The Bird 
-The Sea Birds 
-The Blackbird 
-The Blackbirds 
-The Bullfinch 
-The Bustard 
-The Black Cock 
-The Cock 
-The Fighting Cocks 
-The Cock and Magpie 
-The Cock and Pye 
-The Cock and Pymat 
-The Choughs 
-The Crane 
-The Cuckoo 
-The Crow 
-The Crow on Gate 
-The Royston Crow 
-The Cygnet 
-The Duck in the Pond 
-The Dove 
-The Doves 
-The Eagle 
-The Eaglet 
-The Spread E^gle 
-The Falcon 
-The Gull 
-The Hawk 
-The Sparrowhawk 
-The Hen and Chickens 
-The Moor Cock 
-The Moorhen 
-The Magpie 
-The Magpies 
-The Nightingale 
-The Ostrich 
-The Owl 
-The Pelican 
-The Pyewipe 
-The Pigeon 
-The Plover 
-The Parrot 
-The Peacock 
-The Peahen 
-The Pheasant 
-The Pheasant Cock 
-The Robin 
-The Raven 
-The Swallow 
-The Swallows 
-The Stork 
-The Skylark 
-The Swan 
-The Swan and Nest 
-The Swan with Two 
-The Swan with Two 
-The Garden 
-The Garden Gate 
-The Angel Gardens 
-The Orchard Gardens 
-The Orchard 
-The Vineyard 
-The Vintage 
-The Nursery 
-The Bower 
-The Havering Bower 
-The Cherry Arbour 
-The Flower of the Forest 
-The Flowers of the 
-The Flower of Kent 
-The Blossoms 
-The Flower Pot 
-The Pot of Flowers 
-The Gurnon Bushes 
-The Bush 
-The Elder Bush 
-The Furze Bush 
-The Holly Bush 
-The Hollies 
-The Ivy Bush 
-The May Bush 
-The Hop Bine 
-The Hop Pole 
-The Hop Poles 
-The ^^ iirtemberger Hop 
-The Malt and Hops 
-The Tree 
-The Trees 
-The Apple Tree 
-The Aspen Tree 
-The Ash 
-The Mountain Ash 
-The Bay Tree 
-The Beech Tree 
-The Beechwood 
-The Birch Tree 
-The Box Tree 
-The Crab Tree 
-The Cherry Tree 
-The Chestnut Tree 
-The Chestnuts 
-The Cedar Tree 
-The Cedars 
-The Cotton Tree 
-The Elm Tree 
-The Ehn 
-The Elms 
-The Queen's Elm 
-The Wych Elm 
-The Elder Tree 
-The Fig Tree 
-The Fir Tree 
-The Firs 
-The Holly Tree 
-The Laurel Tree 
-The Laurels 
-The Lemon Tree 
-The Myrtle Tree 
-The Myrtle 
-The Mulberry Tree 
-The Oak Tree 
-The Orange Tree 
-The Plane Tree 
-The Pound Tree 
-The Pahn Tree 
-The Pear Tree 
-The Sycamore Tree 
-The Thorn Tree 
-The Thorn 
-The Walnut Tree 
-The Willow Tree 
-The Withy Trees 
-The Yew Tree 
-The Acorn 
-The Oak 
-The Oak Shades 
-The British Oak 
-The Broad Oak 
-The Cuckoo Oak 
-The Gospel Oak 
-The King's Oak 
-The Round Oak 
-The Royal Oak 
-The Oak and Acorn 
-The Oak and Ivy 
-The Oak Branch 
-The Ohve Branch 
-The Rosemary Branch 
-The Barleycorn 
-The Barley Sheaf 
-The Oat Sheaf 
-The Sedge Sheaf 
-The Wheat Sheaf 
-The Rosemary 
-The Rose 
-The Blooming Rose 
-The Little Rose 
-The Handford Rose 
-The Moss Rose 
-The Rose Bud 
-The Rose in June 
-The Rose of Kent 
-The Rose of Lee 
-The Rose and Shamrock 
-The Rose and Thistle 
-The Rose, Shamrock and 
-The Rose and Lily 
-The Daisy 
-The Fleur de Lis 
-The Fleur de Lys 
-The Blooming Fuchsia 
-The Heartsease 
-The Honeysuckle 
-The Lily 
-The Pansy 
-The Primrose 
-The Tulip 
-The Virginia Plant 
-The Virginia Planter 
-The Water Lily 
-The Woodbine 
-The Clachan 
-The Shamrock 
-The Scotch Thistle 
-The Vine 
-The Vine and Ivy 
-The Ivy 
-The Ivy Leaf 
-The Olive Leaf 
-The Grapes 
-The Bunch of Grapes 
-The Artichoke 
-The Cabbage 
-The Cauliflower 
-The Coconut 
-The Carrots 
-The Pineapple 
-The Rhubarb 
-The Plume 
-The Feathers 
-The Plume of Feathers 
-The Cape 
-The Cardinal's Cap 
-The Cardinal's Hat 
-The Hat and Feather 
-The Hat and Feathers 
-The Cap and Feathers 
-The Wig 
-The Buckle 
-The Buffcoat 
-The Tabard 
-The Boot 
-The Shoe 
-The Boot and Shoe 
-The Boot and Shpper 
-The Bonnie Cravat 
-The Leather Gaiters 
-The Black Boy 
-The Black Boys 
-The Black Bell 
-The Black Bull 
-The Black Bear 
-The Black Chequers 
-The Black Dog 
-The Black Dog and Duck 
-The Black Eagle 
-The Black Friar 
-The Black Goose 
-The Black Goats 
-The Black Griffin 
-The Black Hart 
-The Black Hatchet 
-The Black Horse 
-The Black Jack 
-The Black Joke 
-The Black Lion 
-The Black Prince 
-The Black Rabbit 
-The Black Raven 
-The Black Swan 
-The WTiite Bear 
-The White Bull 
-The White Bell 
-The WTiite Cottage 
-The WTiite Cross 
-The White Elm 
-The White Friars 
-The White Horn 
-The White Horse 
-The Great \Miite Horse 
-The White House 
-The W^hite Heifer 
-The WTiite Hart 
-The WTiite Lion 
-The Little WTiite Lion 
-The White Lodge 
-The White Rose 
-The White Raven 
-The Island Green 
-The Green Bushes 
-The Green Bank 
-The Green Coat Boy 
-The Green Gardens 
-The Green Gate 
-The Green Gates 
-The Green Hill 
-The Green Hills 
-The Green Market 
-The Green Man 
-The Green Shutter 
-The Green Tree 
-The Blue Anchor 
-The Blue Boy 
-The Blue Boar 
-The Blue Bell 
-The Blue Ball 
-The Blue Bull 
-The Blue Coat Boy 
-The Blue Cow 
-The Blue Dog 
-The Blue Eyed Maid 
-The Blue Fox 
-The Blue House 
-The Blue Horse 
-The Blue Last 
-The Blue Lion 
-The Blue Man 
-The Blue Pig 
-The Blue Posts 
-The Blue Peter 
-The True Blue 
-The Red Bull 
-The Red Cat 
-The Red Cow 
-The Red Cross 
-The Red Deer 
-The Red Dragon 
-The Red House 
-The Red Horse 
-The Red Hart 
-The Red Lion 
-The Original Red Lion 
-The Carved Red Lion 
-The Red Lodge 
-The Red Well 
-The Grey Bull 
-The Grey Eagle 
-The Grey Friar 
-The Grey Friars 
-The Grey Goat 
-The Grey Horse 
-The Grey ]\Iare 
-The Dapple Grey 
-The Maldon Grey 
-The Scotch Grey 
-The Yorkshire Grey 
-The Bay Horse 
-The Bay Malton 
-The Brown Cow 
-The Brown Jug 
-The Brown Bear 
-The Dun Cow 
-The Dun Horse 
-The Pied Bull | 
-The Pied Calf 
-The Pied Horse 
-The Spotted Cow 
-The Spotted Dog 
-The Spotted Horse 
-The Chestnut Horse 
-The Roan Horse 
-The Sorrel Horse 
-The Bell 
-The Bow Bells 
-The Bells of Ousele^^ 
-The Bell and Anchor 
-The Bell and Birdcage 
-The Bell and Crown 
-The Bell and Feathers 
-The Bell and Horns 
-The Bell and Mackerel 
-The Bell and Oak 
-The Bell and Swan 
-The Crown Kenton 
-The Crown and Anchor Ipswich 
-The Crown and Anvil Minories 
-The Crown and Angel Norwich 
-The Crown and Apple Tree Berwick Street 
-The Crown and Cushion Eton 
-The Crown and Column Devonport 
-The Crown and Compasses Cambridge 
-The Crown and Dolphin Royston 
-The Crown and Falcon Puckeridge 
-The Crown and Glove 
-The Crown and Grapes 
-The Crown and Harp 
-The Crown and Hundred 
-The Crown and Horns 
-The Crown and Horse- 
-The Crown and Horse- 
-The Crown and Leek 
-The Crown and Liver 
-The Crown and Mitre 
-The Crown and Punch- 
-The Cro\\^l and Raven 
-The Crown and Shears 
-The Crown and Shuttle 
-The Crown and Stirrup 
-The Crown and Seven 
-The Crown and Sugarloaf 
-The Crov\-n and Sceptre 
-The Crown and Treaty 
-The Crown and Thistle 
-The Crown and Two 
-The Crown and Woolpack 
-The Anchor and Hope 
-The Anchor of Hope 
-The Apple Tree and 
-The Boy and Barrel 
-The Barn and Barrel 
-The Barrel and Grapes 
-The Buck and Bell 
-The Bird and Gate 
-The Bush Thrush and 
-The Black Boy and Still 
-The Bell and Bowl 
-The Boat and Gun 
-The Bull and Anchor 
-The Bull and Bell 
-The Bull and Butcher 
-The Bull and Chain 
-The Bull and Gate 
-The Bull and Horseshoes 
-The Bull and Last 
-The Bull and Mouth 
-The Bull and Pump 
-The Bull and Stars 
-The Bull and Swan 
-The Bull and Stirrup 
-The Bear and Bells 
-The Bear and Billet 
-The Bear and Crown 
-The Bear and Cross 
-The Bear and Pole 
-The Bear and Raggetl 
-The Bear and Rummer 
-The Cow and Snuffers 
-The Cross Daggers 
-The Cross Foxes 
-The Castle and Plough 
-The Castle and Ball 
-The Castle and Falcon 
-The Castle and Anchor 
-The Castle and Keys 
-The Cat and Fiddle 
-The Cat and Mutton 
-The Cat and Bagpipes 
-The Cat and Custard Pot 
-The Cat and \Vheel 
-The Cat and Cage 
-The Coach and Dogs 
-The Coach and Bell 
-The Cock and Anchor 
-The Cock and Bell 
-The Cock and Bull 
-The Cock and Bottle 
-The Cock and Castle 
-The Cock and. Flower 
-The Cock and Hoop 
-The Cock and Lion 
-The Cock and Neptune 
-The Cock and Woolpack 
-The Dog and Pot 
-The Dog and Bell 
-The Donkey and Buskins 
-The Drum and Monkey 
-The Elephant and Castle 
-The Eagle and Child 
-The Eagle and Lamb 
-The Eagle and Wheat- 
-The Fish and Anchor 
-The Fish and Duck 
-The Fish and Ring 
-The Feathers and Ex- 
-The Five Bells and 
-The Fountain and Star 
-The French Horn and 
-The Fox and Anchor 
-The Fox and Ball 
-The Fox and Barrel 
-The Fox and Crown 
-The Fox and French 
-The Fox and Pheasant 
-The Goat and Boot 
-The Goat and Compasses 
-The George and Angel 
-The George and Vulture 
-The George and Horn 
-The George and Devon- 
-The George and Gate 
-The George and Guy 
-The George and Thirteen 
-The Gun and Magpie 
-The Grapes and Anchor 
-The Globe and Engine 
-The Green Man and 
-The Green j\Ian and 
-The Green Man and Still 
-The Hare and Billet 
-The Hare and Bell 
-The Half Moon and 
-The Hog and Chequers 
-The Horns and Chequers 
-The Horns and Horse- 
-The Hope and Anchor 
-The Hat and Tun 
-The Hoop and Grapes 
-The Horse and Gate 
-The Horse and Dolphin 
-The Horse and Trumpet 
-The Horse and Wells 
-The Horseshoe and Colt 
-The Horseshoe and Castle 
-The Horseshoe and Mag- 
-The Horseshoe and 
-The Jolly Sailors and 
-The Key and Castle 
-The Kings and Keys 
-The King and Tinker 
-The King's Arms and 
-The King's Arms and 
-The King's Head and 
-The Lamb and Lark 
-The Lamb and Lion 
-The Lamb and Flag 
-The Lamb and Star 
-The Lion and Castle 
-The Lion and Crown 
-The Lion and Fiddle 
-The Lion and French Horn 
-The Lion and Snake 
-The Lion and Swan 
-The Lion and WTieatsheaf 
-The Maund and Bush 
-The Mermaid and Foun- 
-The Mawson Arms and 
-The Maid and Magpie 
-The Magpie and Stump 
-The IMagpie and Crown 
-The Magpie and Punch- 
-The Plough and Sail 
-The Plough and Shuttle 
-The Plough and Duck 
-The Parrot and Punch- 
-The Pig and Wliistle 
-The Peacock and Royal 
-The Queen and Artichoke 
-The Queen's Head and 
-The Raven and Sun 
-The Rose and Crown 
-The Rose and PortculUs 
-The Rose and Three Tuns 
-The Royal Oak and Rail- 
-The Ram and Magpie 
-The Ram and Teazle 
-The Red Lion and Ball 
-The Red Lion and 
-The Red Lion and Key 
-The Red Lion and Sun 
-The Red Lion and Spread 
-The Red Lion and Still 
-The Still and Star 
-The Ship and Star 
-The Ship and Castle 
-The Ship and Horns 
-The Ship and Shovel 
-The Ship and Blue Ball 
-The Stork and Castle 
-The Swan and Castle 
-The Swan and Mitre 
-The Swan and Bottle 
-The Swan and Pyramids 
-The Swan and Sugarloaf 
-The Serpent and Eagle 
-The Stag and Pheasant 
-The Salmon and Ball 
-The Salmon and Com- 
-The Sun and Anchor 
-The Sun and Thirteen 
-The Sun and York 
-The Sun and Woolpack 
-The Sun and Whalebone 
-The Star and Garter 
-The Star and Fleece 
-The Star and Anchor 
-The Star and Windmill 
-The Three Pigeons and 
-The Thistle and Crown 
-The Talbot and Falcon 
-The White Horse and 
-The White Horse and 
-The Woman and Trumpet 
-The Wheelbarrow and 
-The Wheel and Compass 
-The Wagon and Lamb 
-The Windmill and Bells 
-The Castle 
-The Alwyne Castle 
-The Arundel Castle 
-The King Arthur's Castle 
-The Belinda Castle 
-The Carnarvon Castle 
-The Denbigh Castle 
-The Durham Castle 
-The Dover Castle 
-The Dreghorn Castle 
-The Dublin Castle 
-The Dartmouth Castle 
-The Devonshire 
-The Edinburgh Castle 
-The Hawarden Castle 
-The Job's Castle 
-The Jack Straw's Castle 
-The Rett's Castle 
-The Lambton Castle 
-The Norwich Castle 
-The Pembroke Castle 
-The Raby Castle 
-The Rochester Castle 
-The Samson's Castle 
-The Stirling Castle 
-The Warwick Castle 
-The Windsor Castle 
-The House of Commons 
-The Arabian House 
-The Assembly House 
-The Allsopp House 
-The Bath House 
-The Ball House 
-The Bridge House 
-The Brookfield House 
-The Club House 
-The Country House 
-The Cellar House 
-The Customs House 
-The Festival House 
-The Garden House 
-The Glass House 
-The Gate House 
-The Heath House 
-The Highbridge House 
-The Halfway House 
-The Irish House 
-The Lock House 
-The Manor House 
-The Market Place 
-The Mansion House 
-The North Country House 
-The Punch House 
-The Rye House 
-The Ridgeway House 
-The Stone House 
-The Sessions House 
-The Summer House 
-The Thatched House 
-The Toll House 
-The Tom Brown House 
-The Trouble House 
-The Wine House 
-The W'arren House 
-The Watch House 
-The Cottage 
-The Cottage of Content 
-The Eaton Cottage 
-The Fern Cottage 
-The Flint Cottage 
-The Handford Cottage 
-The Ivy Cottage 
-The Ivy Cot 
-The Rose Cottage 
-The Spring Cottage 
-The Swiss Cottage 
-The Woodbine Cottage 
-The Flyman's Home 
-The Happy Home 
-The Stranger's Home 
-The Sailors' Home 
-The Hut 
-The Deer's Hut 
-The Kisby's Hut 
-The Shepherd's Hut 
-The Winterslow Hut 
-The Gipsy's Tent 
-The Jack's Booth 
-The Beehive 
-The Beehive 
-The Falcon's Nest 
-The Monkey's Nest 
-The Kite's Nest 
-The Rest 
-The Angler's Rest 
-The Cricketer's Rest 
-The Drover's Rest 
-The Huntsman's Rest 
-The Miner's Rest 
-The Rambler's Rest 
-The Shepherd's Rest 
-The Traveller's Rest 
-The Cloth Hall 
-The Lilliput Hall 
-The Town Hall 
-The West End 
-The Mayfair 
-The Chalk Farm 
-The Highbury Barn 
-The Lattice Barn 
-The Bank 
-The Bank of England 
-The Bank of Friendship 
-The Corn Exchange 
-The Crystal Palace 
-The Guildhall 
-The Inns of Court 
-The London Stone 
-The London Hospital 
-The Monument 
-The Nelson Monument 
-The Nelson's Monument 
-The Mall 
-The Mount Pleasant 
-The Obelisk 
-The Pleasant Retreat 
-The Post Office 
-The Royal Exchange 
-The Tower 
-The Temple Bar 
-The Whittington Stone 
-The Bow Bridge 
-The Fulham Bridge 
-The London Bridge 
-The Moorgate 
-The Storey's Gate 
-The Duchy 
-The Cosy Corner 
-The Caxton Gibbet 
-The Cemetery 
-The Duke's Palace 
-The Windsor Castle 
-The Round Tower Windsor 
-The Savoy Palace Savoy Street 
-The Balmoral Edinburgh 
-The Hampton Court Palace Crampton Street 
-The Buckingham Palace Stevenage 
-The Osborne Stroud Green 
-The Ark 
-The Angel 
-The Angel and Trumpet 
-The Abbey 
-The Abbey in the West 
-The Cross 
-The Priory 
-The Cathedral 
-The Chapel 
-The Temple 
-The Chinese Temple 
-The Hermit 
-The Hermitage 
-The Hermit's Cave 
-The George and Dragon 
-The George and Dragon 
-The Saint George and 
-The Saint Anne's 
-The Saint Anne's Cross 
-The Saint Ann's 
-The Saint Andrew 
-The Saint Bartholomew 
-The Saint Clement's 
-The Saint Cuthbert's 
-The Saint James 
-The Saint John of 
-The Saint Paul 
-The Saint Petrock 
-The Simon the Tanner 
-The Rhadegund 
-The Bel and Dragon 
-The Good Samaritan 
-The Prodigal's Return 
-The Adam and Eve 
-The Rainbow and Dove 
-The Brazen Serpent 
-The Goliath 
-The Samson and Lion 
-The Leviathan 
-The Catherine Wheel 
-The York Minster 
-The Furness Abbey 
-The Fountains Abbey 
-The Bolton Abbey 
-The Thomas a Becket 
-The Bishop Bonner 
-The Great A "S'axhani 
-The Q Stalybridge 
-The First and Last Sennen 
-The First In and Last Bideford 
-The Catch All 
-The Welcome All 
-The \\'elcon\e Stranger 
-The \Miy Not 
-The Who'd a' Thought It 
-The Who'd Have Thought Barking 
-The Which You Please 
-The Just in Time 
-The God Speed the 
-The Goodwill to All 
-The Friendly 
-The Friendship 
-The Unity 
-The Union 
-The Happy Union 
-The Nowhere 
-The No Place 
-The Slow and Easy 
-The Hit or Miss 
-The Horn of Plenty 
-The Peace and Plenty 
-The Good Intent 
-The Live and Let Live 
-The Civil Usage 
-The Fortune of War 
-The Soldier's Fortune 
-The Wlieel of Fortune 
-The Trip to Jerusalem 
-The Lame Dog 
-The Wait for the Bus 
-The Cut the Wind 
-The Slap Up 
-The Staff of Life 
-The Broadface 
-The Labour in Vain 
-The Lost Child 
-The Staffordshire Knot 
-The Rent Day 
-The Pass By 
-The None the Wiser 
-The Duke's Motto 
-The Catch'em 
-The Mortal Man 
-The Smiling Man 
-The Naked Man 
-The Blindman's Gate 
-The Hanging Gate 
-The Gate Hangs High 
-The Gate Hangs Well 
-The Merry Month of May 
-The Land of Liberty 
-The Ass in a Bandbox 
-The Freedom of Opinion 
-The Magna Charta 
-The Constitution 
-The Commonwealth 
-The Coronation 
-The Diamond Reign 
-The Jubilee 
-The Diamond Jubilee 
-The Alliance 
-The Correction 
-The Defiance 
-The Exliibition 
-The Endeavour 
-The Enterprise 
-The Gaiety 
-The Metropolitan 
-The Moderation 
-The Paragon 
-The Providence 
-The Perseverance 
-The Success 
-The Surprise 
-The Salutation 
-The Victory 
-The Puss in Boots 
-The Goat in Boots 
-The Dog in Doublet 
-The Fox and Goose 
-The Fox and Duck 
-The Fox and PeUcan 
-The Fox and Goat 
-The Fox and Grapes 
-The Cow and Hare 
-The Farewell 
-The Finish 
-The Final 
-The Fish 
-The Fish and Eels 
-The Fishery 
-The Crab 
-The Crab and Lobster 
-The Lobster 
-The Cod and Lobster 
-The Otter and Fish 
-The Roach 
-The Dolphin 
-The Pickerel 
-The Crawfish 
-The Salmon 
-The Trout 
-The Oyster 
-The Butt and Oyster 
-The Eel's Foot 
-The Pike and Eel 
-The World 
-The World's End 
-The End of the World 
-The World Turned Up- 
-The Globe 
-The Albion 
-The Anglesey 
-The Aberfeldy 
-The Britannia 
-The Bath 
-The Berkeley 
-The Boston 
-The Brighton 
-The Bristol 
-The Canterbury 
-The Clarendon 
-The Coldstream 
-The Cambridge 
-The Derby 
-The Dunraven 
-The Duncannon 
-The Elgin 
-The Foxhall 
-The Granby 
-The Granville 
-The Grandison 
-The Ipswich 
-The Leeds 
-The Leeds and Liverpool 
-The Leamington 
-The Lincoln 
-The London 
-The Leicester Lounge 
-The Malvern 
-The Manchester 
-The Magdala 
-The Newcastle 
-The Newcastle-on-T^-ne 
-The Normanton 
-The Oakley 
-The Oxford and Cam- 
-The Quebec 
-The Ruperra 
-The Raby 
-The Sefton 
-The Stockton 
-The Tavistock 
-The Vyne 
-The Washington 
-The Windsor 
-The W'harfedale 
-The Welhngton 
-The Wynyard 
-The York and Albany 
-The Zetland 
-The Aire and Calder 
-The Granta 
-The Mersey 
-The Medway 
-The Orvvell 
-The Thames 
-The Tyne 
-The Witham 
-The Waveney 
-The Essex 
-The Holderness 
-The Kent and Essex 
-The Rutland 
-The Yorkshire 
-The West Riding 
-The Worcestershire 
-The Torbay 
-The Middevon 
-The Yeovale 
-The Stanhope and Tyne 
-The Cheddar Valley 
-The Thames Valley 
-The Wear Valley 
-The Milford Haven 
-The Cinqae Ports 
-The East Suffolk 
-The East of England 
-The Lake Lothing 
-The Sole Bay 
-The Grosvenor Basin 
-The Town of Leith 
-The Town of Ramsgate 
-The City of Canton 
-The City of Carlisle 
-The City of Gloucester 
-The City of Hereford 
-The City of London 
-The City of Norwich 
-The City of New York 
-The City of Paris 
-The City of Quebec 
-The City of Rome 
-The City of Salisbury 
-The Scotland 
-The John q' Groats 
-The Land's End 
-The Richmond Hill 
-The Tan Hill 
-The Mount Ephraim 
-The Skiddaw 
-The Summit 
-The Isle of Wight 
-The Isle of Skye 
-The Isle of Cyprus 
-The Channel Islands 
-The Scarborough Spa 
-The Europa 
-The Minorca 
-The Nassau 
-The Oporto 
-The Portugal 
-The Riviera 
-The Savoy 
-The Smyrna 
-The Swiss 
-The Helvetia 
-The Atlantic 
-The South Sea 
-The Cape of Good Hope 
-The Columbia 
-The Falls of Niagara 
-The Hercules Pillars 
-The Jamaica 
-The Oriental 
-The Patna 
-The Simla 
-The South Pole 
-The Trafalgar 
-The Alma 
-The Heights of Alma 
-The Blenheim 
-The Bunker's Hill 
-The Battle of Nile 
-The Crimea 
-The Fort St. George 
-The Gibraltar 
-The Rock of Gibraltar 
-The Inkerman 
-The Malakoff 
-The Navarino 
-The Neville's Cross 
-The Redan 
-The Waterloo 
-The Arab Bo}^ 
-The American 
-The Australian 
-The Canadian 
-The Caledonian 
-The Californian 
-The Hambletonian 
-The Norfolk Freeholders 
-The Parisian 
-The Spaniards 
-The Spanish Patriot 
-The Scotchman and His 
-The Jolly Scotchman 
-The Zulu 
-The Ancient Briton 
-The Generous Briton 
-The True Briton 
-The Guide Post 
-The Toll Bar 
-The Toil Gate 
-The Gate 
-The Hatchgate 
-The Swing Gate 
-The Stocks 
-The Golden Anchor 
-The Golden Ball 
-The Golden Bells 
-The Golden Boar 
-The Golden Can 
-The Golden Cock 
-The Golden Cross 
-The Golden Dog 
-The Golden Eagle 
-The Golden Fleece 
-The Golden Gallon 
-The Golden Horse 
-The Golden Harp 
-The Golden Heart 
-The Golden Key 
-The Golden Lion 
-The Golden Last 
-The Golden Rose 
-The Golden Rule 
-The Golden Stream 
-The Golden Star 
-The Silver Cup 
-The Silver Lion 
-The Silver Oar 
-The Silver Tavern 
-The Silver Tree 
-The Silver Trumpet 
-The Brick and Tile 
-The Barn 
-The Portcullis 
-The Lattice 
-The Crooked Chimney 
-The Wire Trellis 
-The Coal Hole 
-The Dark Lantern 
-The Guinea 
-The Cabinet 
-The Key 
-The Lock and Key 
-The Little Dustpan 
-The Spinning \Mieel 
-The Pin Cushion 
-The Cold Bath 
-The Gas 
-The Hourglass 
-The Dial 
-The Clock 
-The Clock Face 
-The Coffee Pot 
-The Imperial Measure 
-The Gallon Pot 
-The Gallon Can 
-The Quart 
-The Rummer 
-The Rum Puncheon 
-The Leather Bottle 
-The Flask 
-The Tankard 
-The Still 
-The Punchbowl 
-The Punchbowl and 
-The Yorkshire Stingo 
-The Pot and Glass 
-The Jug and Glass 
-The Bottle and Glass 
-The Bottles 
-The Board 
-The Round Table 
-The Willow Pattern 
-The Pewter Platter 
-The Frying Pan 
-The Mechanic's Larder 
-The Knife and Steel 
-The Cow -Roast 
-The Haunch of Venison 
-The Shoulder of Mutton 
-The Leg of Mutton and 
-The Beefsteak 
-The Baron of Beef 
-The Round of Beef 
-The Ribs of Beef 
-The Spare Rib 
-The Eel Pie 
-The Flitch of Bacon 
-The Bubble and Squeak 
-The Cheddar Cheese 
-The Cheshire Cheese 
-The Sugarloaf 
-The Sugarloaves 
-The Commercial 
-The Treaty of Commerce 
-The Industry 
-The Tontine 
-The Colliery 
-The Furnace 
-The Brick Kilns 
-The Cinder Ovens 
-The Tan Pits 
-The Repository 
-The Bun Shop 
-The Diamond 
-The London Assurance 
-The Foundry 
-The Woolpack 
-The Woolsack 
-The Bazaar 
-The Silk Mills 
-The Yarn Factory 
-The Reservoir 
-The Shuttles 
-The Fire Brigade 
-The Free Press 
-The Free Trader 
-The Free Trade 
-The Freemasons 
-The British Workman 
-The Sons of Commerce 
-The London Apprentice 
-The Jolly Butcher 
-The Jolly Butchers 
-The Jolly Brewer 
-The Jolly Brewers 
-The Jolly Coopers 
-The Jolly Hatters 
-The Jolly Maltster 
-The Jolly Miller 
-The Jolly Crispin 
-The Bold Crispin 
-The Crispin and Crispianus 
-The Crispin 
-The Brewer and Baker 
-The Baker and Basket 
-The Merry Carpenters 
-The Draymen 
-The Engineer 
-The Florist 
-The Foresters 
-The Experienced Fowler 
-The Butcher and Beast 
-The Chapman 
-The Royal Foresters 
-The Fishmongers 
-The Dusty Miller 
-The Maltsters ^ 
-The Maltman and Shovel 
-The Malt Shovels 
-The Jet Miners 
-The Rangers 
-The Ringers 
-The Rat Catcher 
-The Wood Man 
-The Weaver 
-The Canterbury Weavers 
-The Ambassador 
-The Honest Lawyer 
-The Anvil 
-The Axe 
-The Axe and Anvil 
-The Axe and Saw 
-The Axe and Hand Saw 
-The Axe and Compass 
-The Axe and Cleaver 
-The Cleaver 
-The Marrow Bone and 
-The Holy Stone 
-The Mallet and Tool 
-The Bag of Nails 
-The Da\y Lamp 
-The Forge Hammer 
-The Steam Hammer 
-The Pick and Hammer 
-The Trowel and Hammer 
-The Hammer and Smithy 
-The Peat Spade 
-The Spade and Becket 
-The Spade and Sprocket 
-The Hack and Spade 
-The Hatchet 
-The Shears 
-The Crook and Shears 
-The Well and Bucket 
-The Royal Military 
-The Flag 
-The Flagstaff 
-The Royal Standard 
-The Standard of England 
-The Union Jack 
-The Union Flag 
-The British Flag 
-The Red White and Blue 
-The Stars and Stripes 
-The American Flag 
-The Halberd 
-The Battle Axes 
-The Gun 
-The Cross Guns 
-The Morning Gun 
-The Evening Gun 
-The Gun and Tent 
-The Rifle 
-The Cross Rifles 
-The Barrack 
-The Horse Barracks 
-The British Camp 
-The Roman Camp 
-The Fort 
-The Garrison 
-The Battery 
-The Martello 
-The Armoury 
-The Warrior 
-The Centurion 
-The Cossack 
-The Marksman 
-The Recruiting Sergeant 
-The Horse Artillery 
-The Artilleryman 
-The Engineers 
-The Life Guards 
-The Royal Horseguards- 
-The Royal Lancers 
-The Lancers 
-The Hussar 
-The Dragoon 
-The Light Dragoon 
-The Light Horse 
-The Liglit Horseman 
-The VaUant Trooper 
-The Grenadier 
-The Jolly Guardsman 
-The Hero ol Alma 
-The Hero of Inkerman 
-The Hero of Maida 
-The Hero of Moultan 
-The Hero of Redan 
-The Hero of Switzerland 
-The Hero of Waterloo 
-The Norfolk Hero 
-The Volunteer 
-The Volunteers 
-The British Volunteer 
-The Mounted Volunteer 
-The Rifle Volunteer 
-The Rifle Volunteers 
-The Rifleman 
-The Thirteenth Rifleman 
-The Royal Rifleman 
-The Chelsea Pensioner 
-The Bombay Grab 
-The Musical 
-The Musician 
-The Lyric 
-The Lyceum 
-The Opera 
-The Conquering Hero 
-The Flying Dutchman 
-The Merry Fiddlers 
-The Morris Dancers 
-The Ring O' Bells 
-The Ring of Bells 
-The Chimes 
-The Crotchet 
-The Organ 
-The Bugle 
-The Bugle Horn 
-The Horn 
-The French Horn 
-The Horn and Trumpet 
-The Fiddle 
-The Harp 
-The Harp of Erin 
-The Welsh Harp 
-The Jew's Harp 
-The Cornopean 
-The Drum 
-The Kettledrum 
-The Spring 
-The Happy Springs 
-The Dripping Spring 
-The Spring View 
-The Brook 
-The Well Head 
-The Water Head 
-The Jacob's Well 
-The P'ountain 
-The Lake 
-The Ocean 
-The Dewdrop 
-The Shore 
-The Grotto 
-The Beach 
-The Ozone 
-The Peep of Day 
-The Sunbeam 
-The Shades 
-The Cobwebs 
-The Rock 
-The Great Stone 
-The Cliff 
-The Quarry 
-The Vale of Health 
-The Cathole 
-The Dawn 
-The Grove 
-The Thicket 
-The Royal Forest 
-The Wood's End 
-The Lane Ends 
-The Marlbank 
-The Roadside 
-The Hill Top 
-The Maritime 
-The Marine 
-The Navigation 
-The Look Out 
-The Grand Junction Canal 
-The Pier 
-The Ferry 
-The Dock 
-The Lock 
-The Wharf 
-The Haven 
-The Harbour 
-The Harbour View 
-The Safe Harbour 
-The Clarence Harbour 
-The Breakwater 
-The Lighthouse 
-The Dublin Packet 
-The Mail Packet 
-The Steam Packet 
-The FUnt Boathouse 
-The Boat 
-The Ferry Boat 
-The Fishing Boat 
-The Life Boat 
-The Pilot Boat 
-The Peter Boat 
-The Pleasure Boat 
-The Shore Boat 
-The Steam Boat 
-The Boat and Anchor 
-The Sloop 
-The Yacht 
-The Royal Yacht 
-The Hoy 
-The Cutter 
-The Cable 
-The Oiitriggers 
-The Ketch 
-The Hulk 
-The Sheer Hulk 
-The Wherry Hulk 
-The Keel and Wherry 
-The Schooner 
-The Galleons 
-The Spanish Galleon 
-The Smack 
-The Fishing Smack 
-The Oyster Smack 
-The Lobster Smack 
-The Barking Smack 
-The Barking Fishery 
-The Greenland Fishery 
-The Suffolk Fishery 
-The Anchor 
-The Foul Anchor 
-The Anchor in Hope 
-The Ship 
-The Ship Afloat 
-The Ship Aground 
-The Ship in Distress 
-The Ship Launch 
-The Ship on Launch 
-The Ship Argo 
-The Sliip Defiance j 
-The Ship Victory 
-The Plimsoll Ship 
-The China Ship 
-The Steam Ship 
-The Ship and Lobster 
-The Sliip and Lighter 
 The Ship and Pilot 
-The Ship and Sailor 
-The Ship and Turtle 
-The Ship and WTiale 
-The Shannon 
-The Shannon and Chesa- 
-The Victory 
-The Barge 
-The Barge Aground 
-The City Barge 
-The Pilot Barge 
-The Row Barge 
-The Admiral 
-The Lord High Admiral 
-The Captain of the Man 
-The Royal Midshipman 
-The Royal Sailor 
-The Royal Tar 
-The Jovial Sailor 
-The Jolly Sailors 
-The Valiant Sailor 
-The Welcome Sailor 
-The Sailor Boy 
-The Fisherman's Boy 
-The Mariners 
-The Jolly Waterman 
-The Jack on a Cruise 
-The Sailor's Farewell 
-The Sailor's Return 
-The Fisherman's Return 
-The Boatswain's Call 
-The Mermaid 
-The Sea Witch 
-The New Brewery 
-The New Beehive 
-The New Bell 
-The New Bell and Crown 
-The New City 
-The New Concord 
-The New Crane 
-The New Crown 
-The New Clown 
-The New Corn Exchange 
-The New Falcon 
-The New Ferry 
-The New Fountain 
-The New Globe 
-The New Gardener's 
-The New Inn 
-The New Jolly Caulkers 
-The New Milf 
-The New Market 
-The New Park 
-The New Quay 
-The New River Head 
-The New Stag 
-The New Swan 
-The New Star 
-The New White Hart 
-The New ^^^lite Rose 
-The Number One Tower 
-The One Bell 
-The One Bull 
-The One Crown 
-The One Pin 
-The One Tun 
-The Doublelock 
-The Two Bears 
-The Two Brewers 
-The Two Beehives 
-The Tw^o Bells 
-The Two Brothers 
-The Two Blue Posts 
-The Two Chairmen 
-The Two Doves 
-The Two Eagles 
-The Two Friends 
-The Two Greyhounds 
-The Two Hunters 
-The Two Mile Brook 
-The Two Mariners 
-The Two Necked Swan 
-The Two Pointers 
-The Two Quarts 
-The Two Lawyers 
-The Two Spies 
-The Two Ships 
-The Two Towers 
-The Three Crosses 
-The Triple Plea 
-The Treble Tile 
-The Three Ashes 
-The Three Blackbirds 
-The Three Boars 
-The Three Cups 
-The Three Cats 
-The Three Cocks 
-The Three Cannons 
-The Three Cranes 
-The Three Colts 
-The Three Crowns 
-The Three Compasses 
-The Three Daws 
-The Three Elms 
-The Three Firs 
-The Three Frogs 
-The Three Feathers 
-The Three Furnaces 
-The Three Fishes 
-The Three Goats 
-The Three Greyhounds 
-The Three Harts 
-The Three Houses 
-The Three Horseshoes 
-The Three Horses 
-The Three Hammers 
-The Three Hills 
-The Three Herrings 
-The Three Johns 
-The Three Jolly Butchers 
-The Three Jolly Gar- 
-The Three Jolly Sailors 
-The Three Jolly Wheelers 
-The Three Jolly Weavers 
-The Three Kings 
-The Three Kingdoms 
-The Three Lords 
-The Three Legs 
-The Three Legged Cross 
-The Three Loggerheads 
-The Three Moles 
-The Three Mile Inn 
-The Three Moorhens 
-The Three Magpies 
-The Three Marines 
-The Three Mariners 
-The Three Mackerel 
-The Three Nuns 
-The Three Nags 
-The Three Oaks 
-The Three Pots 
-The Three Pigeons 
-The Three Pilchards 
-The Three Postboys 
-The Three Rabbits 
-The Three Salmons 
-The Three Stags 
-The Three Squirrels 
-The Three Swans 
-The Three Sisters 
-The Three Tuns 
-The Three Travellers 
-The Three Wlieatsheaves 
-The Four Alls 
-The Four Ashes 
-The Four Crosses 
-The Four Cross Roads 
-The Four Horseshoes 
-The Four Points 
-The Four Swans 
-The Five Alls 
-The Five Arrows 
-The Five Bells 
-The Five Horseshoes 
-The Five Miles 
-The Five Oaks 
-The Five Pilchards 
-The Six Bells 
-The Seven Sisters 
-The Seven Stars 
-The Seven Thorns 
-The Seven Dials 
-The Eight Bells 
-The Eight Ringers 
-The Nine Elms 
-The Ten Bells 
-The Eleven Cricketers 
-The Fourteen Stars 
-The Fifteen Balls 
-The Hundred House 
-The Purslow Hundred 
-The Hundred And One 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old 
-The Old Centurion 
-The Old Cock 
-The Old Coffee Pot 
-The Old Commodore 
-The Old Cocoa Tree 
-The Old Coffee House 
-The Old Cheshire Cheese 
-The Old Clock House 
-The Old Crown 
-The Old Chesterfield 
-The Old Castle 
-The Old Dun Cow 
-The Old Duke's Head 
-The Old English Gentle- 
-The Old England 
-The Old Farmhouse 
-The Old Friend 
-The Old Fiddle 
-The Old Friends 
-The Old Green Man 
-The Old Greenland Fish- 
-The Old Guildford Barge 
-The O'.d Guinea 
-The Old Golden Lion 
-The Old Greyhound 
-The Old Gate House 
-The Old Harrow 
-The Old Hatchet 
-The Old House at Home 
-The Old Hatch House 
-The Old Hat 
-The Old Hall 
-The Old Ivy House 
-The Old Inn 
-The Old Industrious Bee 
-The Old Jamaica 
-The Old Jail 
-The Old Jock 
-The Old Justice 
-The Old King's Arms 
-The Old King's Head 
-The Old King Harry 
-The Old King of Prussia 
-The Old Lattice 
-The Old London Bridge 
-The Old Magnet 
-The Old Maltscoop 
-The Old Mail Coach 
-The Old Northumberland 
-The Old Oak 
-The Old Plough 
-The Old Plough and Har- 
-The Old Post Office • 
-The Old Parr's Head 
-The Old Quiet Woman 
-The Old Rock House 
-The Old Roundabout 
-The Old Red House 
-The Okl Red Lion 
-The Old Rover's Return 
-The Old Row Barge 
-The Old Rodney's Head 
-The Old Raggles 
-The Old Roebuck 
-The Old Robin Hood 
-The Old Rose 
-The Old Sugarloaf 
-The Old Swan's Nest 
-The Old Sea Lion 
-The Old Six Bells 
-The Old Sergeant 
-The Old Ship 
-The Old Swan 
-The Old Star 
-The Old Tippling Philo- 
-The Old Wliite Hart 
-The Old White Lion 
-The Old Windmill 
-The Old Waggon and 
-The Old Yew 
-The Adelphi 
-The Peoples 
-The Vulcan 
-The Apollo 
-The Atlas 
-The Aurora 
-The Pandora 
-The Neptune 
-The Hercules 
-The Cupid 
-The Cupid and Bow 
-The Duke 
-The Duke of Suffolk 
-The Duke of Hamilton 
-The Duke of Grafton 
-The Duke of Norfolk 
-The Duke of Wellington 
-The Duke of Bedford 
-The Duke of Devonshire 
-The Duke of Sutherland 
-The Duke of Fife 
-The Duke of Marlborough 
-The Iron Duke 
-The Marquis of Lome 
-The Marquis of Granby 
-The Marquis of West- 
-The Marquis Wellesley 
-The Marquis of SaUsbury 
-The Marquis of Lothian 
-The Marquis of Anglesey 
-The Marquis of Hastings 
-The Marquis of Clanri- 
-The Marquis of Corn- 
-The Marquis CornwalUs 
-The Marquis 
-The Earl of Essex 
-The Earl of Aberdeen 
-The Earl of Richmond 
-The Earl of Cardigan 
-The Earl of Leicester 
-The Earl of Durham 
-The Earl of Derby 
-The Earl of Beaconsfield 
-The Earl of Warwick 
-The Earl St. Vincent 
-The Earl Grey 
-The Earl Cathcart 
-The Earl Russell 
-The Earl 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord 
-The Lord John Russell 
-The Lord Warden 
-The Lord Chancellor 
-The Baronet 
-The Lady Franklin 
-The Lady jMildmay 
-The General Elliott 
-The General 
-The General 
-The General 
-The General 
-The General 
-The General 
-The General 
-The General 
-The General 
-The General 
-The Admiral 
-The Admiral Keppel 
-The Admiral Nelson 
-The Admiral Vernon 
-The Admiral Hardy 
-The Admiral Benbow 
-The Admiral Hawke 
-The Admiral Rous 
-The Admiral McBride 
-The Admiral Tyrell 
-The Admiral Seymour 
-The Admiral Carter 
-The Admiral Codrington 
-The Admiral Mann 
-The Admiral Napier 
-The Bold Napier 
-The Captain Harman 
-The Captain Cook 
-The Captain Digby 
-The Pitt and Nelson 
-The Nelson 
-The Rodney 
-The Rodney and Hood 
-The Gladstone 
-The George Canning 
-The Camden 
-The Pakenham 
-The Randolph 
-The John Burns 
-The Bolingbroke 
-The Crosby 
-The John Bull 
-The John Barleycorn 
-The Jane Shore 
-The Wat Tyler 
-The Boleyn 
-The Tilden Smith 
-The C. B. 
-The Robin Hood 
-The Robin Hood and 
-The Little John 
-The Owen Glendower 
-The Garibaldi 
-The Garrick 
-The Nell Gwynne 
-The Jenny Lind 
-The Dick Turpin 
-The George Peabody 
-The Brunei 
-The William James 
-The Jack of Newbury 
-The Jack of Both Sides 
-The Daniel Lambert 
-The Mother Shipton 
-The Mother Redcap 
-The Father Redcap 
-The George 
-The Christopher 
-The Dick 
-The Tumble-down Dick 
-The Tom in Bedlam 
-The Bess of Bedlam 
-The Blind Beggar 
-The Stniggler 
-The Hob of the Well 
-The Man in the jNIoon 
-The Alderman 
-The Citizen 
-The Man of Kent 
-The Arthur 
-The Punch 
-The Connoisseur 
-The Good Woman 
-The Quiet Woman 
-The Silent Woman 
-The Load of Mischief 
-The Man Laden with 
-The Naked Man 
-The Wild Man 
-The Sand Boy 
-The Lads of the Village 
-The Heather Lad 
-The Highland Laddie 
-The Highland Chief 
-The Highlander 
-The Tourist 
-The Running Footman 
-The Virgin 
-The Village Maid 
-The Lucky Rover 
-The Dick Whittington 
-The Whittington 
-The Dying Gladiator 
-The Ancient Druids 
-The Shakespeare 
-The Burns 
-The Robert Burns 
-The Andrew Marvel 
-The Ben Jonson 
-The Lady of the Lake 
-The Excelsior 
-The Comus 
-The Childe Harold 
-The Village Blacksmith 
-The Round Table 
-The Avalon 
-The John Gilpin 
-The Bell 
-The Colleen Bawn 
-The Paul Pry 
-The Uncle Tom's Cabin 
-The Touchstone 
-The Altisidora 
-The Ivanhoe 
-The Waverley 
-The Compleat Angler 
-The Darby and Joan 
-The Vicar of Wakefield 
-The Pindar of Wakefield 
-The Miller of Mansfield 
-The Valentine and Orson 
-The Robinson Crusoe 
-The Oliver Twist 
-The Mutual Friend 
-The Royalty 
-The Royal 
-The Imperial 
-The Crown 
-The Sceptre 
-The Crown and Sceptre 
-The Coronet 
-The Regalia 
-The Sovereign 
-The Royal Sovereign 
-The Monarch 
-The Merry Monarch 
 The Emperor 
-The Empress 
-The African Chief 
-The Indian Chief 
-The Indian Queen 
-The Queen 
-The British Queen 
-The Island Queen 
-The Queen in the \\'est 
-The Queen of England 
-The King and Queen 
-The Victoria 
-The Queen Victoria 
-The Empress of India 
-The Queen and Prince 
-The Prince Consort 
-The Edward the Seventh 
-The Alexandra 
-The King and Prince of 
-The Prince of Wales 
-The Prince and Princess 
-The Princess of Wales 
-The Princess Royal 
-The Princess Amelia 
+The Flag 
+The Cock and Castle 
+The Nightingale 
+The Admiral Hardy 
+The Crimea 
+The Bank of Friendship 
+The Garden Gate 
+The New Brewery 
+The Wych Elm 
+The Turners' Arms 
 The Princess Louise 
-The Princess May 
-The Princess Beatrice 
-The Princess Charlotte 
-The Princess Victoria 
-The Young Prince 
-The Prince of Windsor 
-The Prince Arthur 
-The Prince Albert Victor 
-The Prince Albert Ed- 
-The Prince Albert 
-The Prince Alfred 
-The Prince Edward 
-The Prince Leopold 
-The Prince Rupert 
-The Prince Frederick 
-The Prince Teck 
-The Prince Regent 
-The Prince William Henry 
-The Prince George of 
-The Prince of Brunswick 
-The Prince of Denmark 
-The Prince of Hesse 
-The Prince of Orange 
-The Prince of Teck 
-The Prince of Saxe 
-The Prince of Prussia 
-The Crown Prince of 
-The Coeur de Lion 
-The \\'illiam Rufus 
-The George the Fourth 
-The William the Fourth. 
-The Queen Adelaide 
-The Royal Adelaide 
-The Queen Anne 
-The Oueen Caroline 
-The Queen Catherine 
-The Queen Charlotte 
-The Qvieen Eleanor 
-The Queen Elizabeth 
-The Queen Victoria 
-The Queen Dowager 
-The Queen of Hungary 
-The Archduke Charles 
-The Duke of Albany 
-The Duke of Clarence 
-The Duke of Connaught 
-The Duke of Cornwall 
-The Duke of Cambridge 
-The Duke of Cumberland 
-The Duke of Edinburgh 
-The Duke of Gloucester 
-The Duke of Kent 
-The Duke of Lancaster 
-The Duke of Sussex 
-The Duke of Wiirtembur^ 
-The Duke of York 
-The Duke William 
-The Duchess of Clarence 
-The Duchess of Edin- 
-The Duchess of Kent 
-The Duchess of Fife 
-The Duchess of York 
+The Owl 
+The Admiral Vernon 
+The Lord Somers' Arms 
+The China Ship 
+The Hoskins Arms 
+The Busy Bee 
+The Pahn Tree 
+The Captain Cook 
 The Napoleon 
-The Peter the Great 
-The Empress of Russia 
-The Sultan 
-The Grand Sultan 
-The Shah of Persia 
-The Mogul 
-The Great Mogul 
-The Cleopatra 
-The Royal Albert 
-The Royal Connaught 
-The Royal Saxon 
-The Royal William 
-The Grave Maurice 
-The Railway 
-The Railway Bell 
-The Railway Guard 
+The Wat Tyler 
+The Cart Overthrown 
+The Marquis of SaUsbury 
+The King Alfred's Head 
+The Silver Cup 
+The Hero of Redan 
+The Crow on Gate 
+The Life Boat 
+The White Friars 
+The Salutation 
+The Book in Hand 
+The Two Ships 
+The Trowel and Hammer 
+The Stranger's Home 
+The \\'elcon\e Stranger 
+The Cricketer's Rest 
+The Plimsoll Ship 
+The New Quay 
+The Buck and Bell 
+The Five Horseshoes 
+The Lord Monson's Arms 
+The Ivy Cottage 
+The Admiral's Head 
+The Colliery 
+The Duke of Marlborough 
+The Potters' Arms 
+The Camel's Head 
+The Frying Pan 
+The Maund and Bush 
+The Stag and Pheasant 
+The Nelson Monument 
+The Leamington 
+The Princess Royal 
+The Honeysuckle 
+The Sun and Anchor 
+The Albion 
+The Footballers' Arms 
 The Railway Porter 
-The Ticket Porter 
-The Station 
-The Viaduct 
-The Junction 
+The Mulberry Tree 
+The Ipswich 
+The Skiddaw 
+The Old Dun Cow 
+The Duke of Albany 
+The Wagon and Lamb 
+The Yachtsman's Arms 
+The Jet Miners 
+The Miners' Arms 
+The Buckinghamshire - 
+The Four Crosses 
+The Royal Oak and Rail- 
+The Coronation 
+The Pegasus 
+The Bones Gate 
+The Pembroke Castle 
+The Rent Day 
 The Safety Valve 
-The Express 
-The Express Train 
-The Locomotive 
-The Engine 
-The Steam Engine 
-The Engine House 
-The Engine and Tender 
-The Tramway 
-The E.U.R. 
-The Great Eastern 
-The Great Western 
-The Great Northern 
-The North Eastern 
-The Gun 
-The Cross Guns 
-The Dog and Gun 
-The Dog and Duck 
-The Dog and Pheasant 
-The Dog and Partridge 
-The Duck and Dog 
-The Fox and Pheasant 
-The Badger Box 
-The Steeplechase 
-The Stakes 
-The Turf 
-The Chester Cup 
-The St. Leger 
-The Amato 
-The BUnk Bonny 
-The Diamond Jubilee 
-The Flying Childers 
-The Flying Fox 
-The Highflyer 
-The Ladas 
-The Smoker 
-The Voltigeur 
-The Race Horse 
+The Yorkshire 
+The Scotch Grey 
+The Elephant 
+The Temple 
+The Hat and Tun 
+The Garden Arms 
+The Thomas a Becket 
+The Three Mackerel 
+The Fox and Hounds 
+The Fox and Hounds 
+The Cat 
+The Royal Lancers 
+The Rifle Volunteer 
+The Orleans Arms 
+The Cross Keys 
 The Trotting Horse 
-The Running Horse 
-The Running Horses 
-The Running Mare - 
-The String of Horses 
-The Horse and Jockey 
-The Horse and Groom 
-The Man and Horse 
-The Man and Saddle 
-The Ostler 
-The Post Boy 
-The Post Boys 
-The Sportsman 
-The Huntsman's Call 
-The Huntsman and 
-The Merry Harriers 
-The Hare and Hounds 
-The Fox and Hounds 
-The Stag and Hounds 
-The Stag and Hunt 
-The Stag and Hunters 
-The Bramhill Hunt 
-The Brocklesby Hunt 
-The Old Berkeley Hunt 
-The Surrey Hounds 
-The Thornton Hunt 
-The Tally Ho 
-The Hark to Bounty 
-The Hark to Lasher 
-The Hark to Mopsey 
-The Hark to Nudger 
-The Hark to Towler 
-The Blue Cap 
+The Rising Sun 
+The Bell and Feathers 
+The Maid's Head 
+The Earl of Durham 
+The Grosvenor Arms 
+The Lucky Rover 
 The Triumphal Chariot 
-The Royal Mail 
-The Mail Coach 
-The Four-In-Hand 
-The Coach and Horses 
-The Chaise and Horses 
-The Chaise and Pair 
-The Postchaise 
-The Tandem 
-The Sedan Chair 
-The WTieel 
-The Turnpike 
-The Horseshoes 
-The Manger 
-The Saddle 
-The Pack Saddle 
-The Whip and Nag 
-The Whip and Collar 
-The Club 
-The Recreation 
-The Anglers 
-The Ball 
-The Bat and Ball 
-The Cricketers 
-The Merry Cricketers 
-The Cricket Players 
-The Wrestlers 
-The Archery 
-The Butts 
-The Arrow 
-The Cross Bow 
-The Bird Bolt 
+The Sliip Defiance j 
+The Chestnuts 
+The British Oak 
+The Eaglet 
+The Black Eagle 
+The Three Crosses 
+The Fox's Brush 
+The Ship and Castle 
+The Pewter Platter 
+The Ship and Turtle 
+The Imperial 
+The Old Centurion 
+The Barley Sheaf 
 The Bowling Green 
-The Corner Pin 
-The Pin and Bowl 
-The Coat and Badge 
-The Chequers 
-The Tennis Court 
-The Dumb Bell 
-The Air Balloon 
-The Balloon 
-The Noah's Ark 
-The Hoop 
-The Hoops 
-The Hoop and Toy 
-The Ninepin 
-The Clown 
-The Harlequin 
-The Queen of Trumps 
-The Knave of Clubs 
-The Fountain 
-The Ostrich 
-The Angel 
-The George and Dragon 
-The Seven Stars 
-The George 
-The Cardinal's Cap 
-The New Inn 
-The Running Horses 
-The George 
-The George 
-The White Hart 
-The Lord Crewe Arms 
-The Star 
-The Pope's Head 
-The Anglers 
-The Dick Whittington 
-The Harlequin 
-The Tan Hill Inn 
-The Cat and Fiddle 
-The Travellers' Rest 
-The Island of Skye 
-The Newby Head 
-The Duchy 
-The Moorcock 
-The Fox and Hounds 
-The Magpie 
-The Green Man and Ashbourne 
-The Red Lion 
-The Four Swans 
-The George 
-The Swan 
-The Man Laden with Oxford St. Hogarth 
-The Stag Doncaster J. F. Herring 
-The Coach and Doncaster J. F. Herring 
-The White Lion 
-The Loggerheads 
-The Fox and Pehcan 
-The Row Barge 
-The George 
-The Ferry 
-The Mortal Man 
-The Smoker 
-The Two Sawyers 
-The Reindeer 
-The Crown and Treaty 
-The Feathers 
+The Dysart Arms 
+The Golddiggers' Arms 
+The Baker and Basket 
 The Raven 
-The New Inn 
-The Bear and Billet 
-the Revolution of 1688 by the Earls of Danby and Devonshire, and Mr. 
-The ceremony of nicking the Royal and Corporation swans on the 
-The Calves Head Club met at the Black Boy, Newgate Street, 
-the leaders of the Salisbury mail. The Coach and Horses, Clerkenwell, 
-The flavour of our honey. 
-The Dolphin in Bishopsgate is mentioned by Stowe i5i3,and probably 
-the then inhabited world of London. 
-the residence of Oliver Cromwell. 
-the Golden Bottle at the well-known bank in Fleet Street. 
-the Shoulder of Mutton and Cucumber. 
+The Raven 
+The Windmill and Bells 
+The Elephant and Castle 
+The Plough 
+The Washington 
+The Green Hills 
+The Carpenters' Arms 
+The Prince William Henry 
+The Morris Dancers 
+The Sportsman 
+The Ambassador 
+The Ancient Briton 
+The Friar's Head 
+The Huntsman's Rest 
+The Gas 
+The Quarryman's Arms 
+The Wharf 
+The Marquis CornwalUs 
+The Prince of Orange 
+The Darby and Joan 
+The West Riding 
+The Barge 
+The Jerningham Arms 
+The Three Jolly Wheelers 
+The Townsend Arms 
+The New City 
+The Marine 
+The British Queen 
+The Oyster Smack 
+The Norwich Arms 
+The Beehive 
+The Beehive 
+The Engineers' Arms 
+The Swan and Nest 
+The Norwich Castle 
+The Five Miles 
+The Prince Regent 
+The Dog 
+The Wilkes Head 
+The Catherine Wheel 
+The Earl of Warwick 
+The Arundel Arms 
+The Crown and Thistle 
+The Barrel and Grapes 
+The Ticket Porter 
+The Crown and Sceptre 
+The Uxbridge Arms 
+The Royal Saxon 
+The Crown and Glove 
+The Hand and Shears 
+The Fox and Cubs 
+The Lord John Russell 
+The Baronet 
+The Three Jolly Butchers 
+The Blindman's Gate 
+The Spaniel Dog 
+The Hollies 
+The Moorhen 
+The Prince Albert Ed- 
+The Maritime 
+The Squirrel 
+The Little WTiite Lion 
+The Duke of Clarence 
+The Bell and Oak 
+The Kentish Waggoners 
+The Giraffe 
+The Rose and Lily 
+The Leicester Arms 
+The Fish and Duck 
+The Old Coffee Pot 
+The Camden 
+The Parrot and Punch- 
+The Fox and Goat 
+The Marrow Bone and 
+The Spotted Cow 
+The Golden Rule 
+The Red Lion 
+The Red Lion 
+The Flower of the Forest 
+The Tailors' Arms 
+The Devonshire Arms 
+The Cable 
+The Monkey's Nest 
+The Excelsior 
+The Ten Bells 
+The King Arthur's Castle 
+The Trafalgar 
+The Wheelbarrow and 
+The Obelisk 
+The Chestnut Tree 
+The Swiss Cottage 
+The Happy Springs 
+The Boilermakers' Arms 
+The Plane Tree 
+The Roebuck 
+The Aspen Tree 
+The Spencer Arms 
+The Junction 
+The Hermitage 
+The Admiral Benbow 
+The Grey Goat 
+The Hufflers' Arms 
+The Navarino 
+The Sussex Arms 
+The Parker Arms 
+The Round Tower Windsor 
+The Salmon 
+The George the Fourth 
+The Old Plough and Har- 
+The Shamrock 
+The Golden Horse 
+The Ass in a Bandbox 
+The Malvern 
+The Ship and WTiale 
+The Cockatrice 
+The Job's Castle 
+The Harp of Erin 
+The Fishers' Arms 
+The Irish House 
+The Ship and Shovel 
+The Drum 
+The Boston 
+The Black Bull 
+The Bath 
+The Ancient Druids 
+The Swiss 
+The Cat and Tiger 
+The Knave of Clubs 
+The Bald Faced Stag 
+The Great \Miite Horse 
+The Lion in the Wood 
+The Crawfish 
+The Draymen 
+The Abergavenny Arms 
+The Merry Monarch 
+The Vine and Ivy 
+The Earl 
+The Red White and Blue 
+The Burns Head 
+The Princess' Head 
+The Engineer 
+The Scales 
+The Lock House 
+The Horse Barracks 
+The Blooming Fuchsia 
+The College Arms 
+The Royal Connaught 
+The Horse and Sacks 
+The Knife and Steel 
+The Old Guildford Barge 
+The Three Stags 
+The Cock and Bull 
+The Valentine and Orson 
+The Maid and Magpie 
+The Shepherd and Dog 
+The Norfolk Freeholders 
+The Shepherd 
+The Exeter Arms 
+The Bull and Last 
+The Welcome All 
+The Gate House 
+The Shard Arms 
+The Marquis of West- 
+The Cat and Bagpipes 
+The City Barge 
+The Cross Foxes 
+The French Horn 
+The Three Horses 
+The Organ 
+The Black Swan 
+The Badger Box 
+The Mother Redcap 
+The Navy Arms 
+The John Burns 
+The Quebec 
+The Barn and Barrel 
+The Lord Crewe Arms 
+The Earl of Leicester 
+The Old Swan's Nest 
+The Horn and Trumpet 
+The Royal Midshipman 
+The Old English Gentle- 
+The Stag and Hounds 
+The Elder Bush 
+The Talbot 
+The Bunker's Hill 
+The Tavistock 
 The Baker says ' I've the staff of life 
-The Brewer replied, with artful pride 
+The Flying Childers 
+The Peat Spade 
+The Blue Dog 
+The Four Ashes 
+The Fox and Crown 
+The Admiral Seymour 
+The Grey Eagle 
+The Tramway 
+The Royal Horseguards- 
+The Old Castle 
+The Three Cannons 
+The Virginia Plant 
+The Sow and Pigs 
+The Cut the Wind 
+The Swallows 
+The Jolly Sailors 
+The Woodcutters' Arms 
+The Fisherman's Boy 
+The Mount Ephraim 
+The \^'aggon 
+The Fox and Grapes 
+The Red Horse 
+The St. Leger 
+The Empress of India 
+The Prince of Wales' 
+The Old King's Arms 
+The Hulk 
+The Duke's Palace 
+The Skylark 
+The Yarn Factory 
+The Tiger 
+The City of Salisbury 
+The Air Balloon 
+The Triple Plea 
+The Bent Arms 
+The Pheasant Cock 
+The Golden Anchor 
+The New Inn 
+The New Inn 
+The New Inn 
+The Prince of Wales 
+The Waterman's Arms 
+The Red Lodge 
+The Admiral McBride 
+The Three Daws 
+The Lord Warden 
+The Horse and Drill 
+The Admiral Tyrell 
+The Forge Hammer 
+The Stocks 
+The Thorn Tree 
+The Ro3'al Naval Arms 
+The Hand and Crown 
+The Rett's Castle 
+The Battle of Nile 
+The Fanciers' Arms 
+The WTiite Cottage 
+The New Fountain 
+The Wait for the Bus 
+The Anglers 
+The Anglers 
+The Handford Cottage 
+The Golden Can 
+The Three Kings 
+The East of England 
+The Wig 
+The Flowers of the 
+The King Charles' Head 
+The Citizen 
+The Three Hammers 
+The Flagstaff 
+The Duke's Head 
+The Black Friar 
+The Earl Russell 
+The Pleasure Boat 
+The Whip and Nag 
+The Hearts of Oak 
+The Chaise and Horses 
+The Jolly Butcher 
+The Tree 
+The Europa 
+The Bull and Bell 
+The Crab 
+The Lemon Tree 
+The Seven Thorns 
+The Sword in Hand 
+The Oilmillers' Arms 
+The Rodney Head 
+The Derby Arms 
+The Lake Lothing 
+The Bear's Head 
+The Orange Tree 
+The Cow and Calf 
+The Blue Boar 
+The Crown and Column Devonport 
+The Crown and Sugarloaf 
+The Rhubarb 
+The Daniel Arms 
+The Bell and Bowl 
+The Hoop and Grapes 
+The Broad Oak 
+The Holly Tree 
+The King's Oak 
+The Ashley Arms 
+The Crocodile 
+The St. Luke's Head 
+The Flower in Hand 
+The Crown and Anchor Ipswich 
+The Sugarloaf 
+The Griffin 
+The Man and Horse 
+The Brick and Tile 
+The Peoples 
+The Ship and Horns 
+The Aurora 
+The Bells of Ousele^^ 
+The Spade and Sprocket 
+The Laurels 
+The Vulcan 
+The Bristol 
+The Simla 
+The Hussar 
+The Black Bear 
+The Three Blackbirds 
+The Hat in Hand 
+The Arthur 
+The Hand and Spear 
+The Green Coat Boy 
+The Thirteenth Rifleman 
+The Earl of Richmond 
+The Jack of Both Sides 
+The Dripping Spring 
+The Cock and Bell 
+The Shah of Persia 
+The Masons' Arms 
+The King's Head 
+The Bonnie Cravat 
+The Spotted Dog 
+The Edward the Seventh 
+The Man of Kent 
+The Running Horses 
+The Running Horses 
+The Sorrel Horse 
+The Prince Arthur 
+The Two Hunters 
+The Three Colts 
+The Hand and Mace 
+The Storey's Gate 
+The Luttrell Arms 
+The Hunters' Arms 
+The King's Arms 
+The Ship and Lobster 
+The Blue Eyed Maid 
+The Hampton Court Palace Crampton Street 
+The Robin 
+The Lansdowne Arms 
+The Millers' Arms 
+The \\'illiam Rufus 
+The Cleopatra 
+The Holy Stone 
+The Agricultural 
+The Cardinal's Hat 
+The Boot 
+The Crown 
+The Golden Eagle 
+The Three Firs 
+The Young Fox 
+The Monster 
+The Isle of Cyprus 
+The Pineapple 
+The Live and Let Live 
+The Glass House 
+The Roman Camp 
+The Berkeley 
+The Turk's Head 
+The Primrose 
+The Qvieen Eleanor 
+The Lake 
+The Temple Bar 
+The Hambletonian 
+The Red Cow 
+The Eagle and Child, 
+The Barleycorn 
+The Wherry Hulk 
+The Printers' Arms 
+The Oak Shades 
+The Plover 
+The Horseshoe and Colt 
+The Bustard 
+The Bell and Swan 
+The Canterbury Weavers 
+The Adelphi 
+The Sole Bay 
+The Nine Elms 
+The Bess of Bedlam 
+The Crown and Horse- 
+The Crown and Horse- 
+The Queen of Hungary 
+The Axe and Cleaver 
+The Hart's Head 
+The Leeds 
+The Heart in Hand 
+The Gallon Pot 
+The Orford Arms 
+The Surrey Hounds 
+The Horse and Dolphin 
+The Sea Witch 
+The Clothiers' Arms 
+The Horse and Jockey 
+The Two Blue Posts 
+The Rifleman's Arms 
+The White Lodge 
+The Heather Lad 
+The Cavendish Arms 
+The Punchbowl and 
+The Paul Pry 
+The Cat and Mutton 
+The Old Wliite Hart 
+The Club 
+The Bell and Crown 
+The St. Edmund's Head 
+The Cock 
+The Crown and Compasses Cambridge 
+The Harewood Arms 
+The Hare 
+The Spring Cottage 
+The Mersey 
+The Crown and Falcon Puckeridge 
+The Cock and Woolpack 
+The Moon and Stars 
+The George Canning 
+The Admiral Hawke 
+The Pitt's Head 
+The Eagle and Lamb 
+The Golden Gallon 
+The Malt and Hops 
+The Stanhope and Tyne 
+The Royal Forest 
+The Bedford Head 
+The Blooming Rose 
+The Zebra 
+The Old Row Barge 
+The Lobster 
+The Crispin and Crispianus 
+The Brewers' Arms 
+The Captain Harman 
+The Handford Rose 
+The Brighton 
+The Summer House 
+The Little Bull 
+The Cottage 
+The \Miy Not 
+The White Bull 
+The Sons of Commerce 
+The Carriers' Arms 
+The Arabian House 
+The Archery 
+The Sheep Shearers 
+The Pelican 
+The Bat and Ball 
+The Bird in Hand 
+The Royal Standard 
+The Walnut Tree 
+The Floral Arms 
+The Liglit Horseman 
+The Dartmouth Castle 
+The Dover Castle 
+The Hurdle 
+The Pheasant 
+The Golden Dog 
+The Turnpike 
+The Duke of Connaught 
+The House of Commons 
+The Arrow 
+The Duke of Cumberland 
+The Stockton Arms 
+The Lamb and Star 
+The Chalk Farm 
+The Virgin 
+The Lord Chancellor 
+The Perseverance 
+The Shipwrights' Arms 
+The Manners' Arms 
+The Roan Horse 
+The Bolton Arms 
+The Swan 
+The Swan 
+The Fiddle 
+The Turf 
+The Rye House 
+The Nelson 
+The Goodwill to All 
+The Okl Red Lion 
+The Dra^'ton Arms 
+The Sefton 
+The Tan Pits 
+The Green Man 
+The Corner Pin 
+The Whittington Stone 
+The Granby 
+The Weaver 
+The South Star 
+The Drill 
+The Still and Star 
+The Four-In-Hand 
+The Tyne 
+The Duke 
+The WTiale Bone 
+The Saint George and 
+The Rambler's Rest 
+The Crown and Shuttle 
+The Altisidora 
+The Coach and Bell 
+The Saint Ann's 
+The Rifle Arms 
+The Three Houses 
+The Honest Lawyer 
+The Marquis of Clanri- 
+The Cow -Roast 
+The Crab and Lobster 
+The Sailor Boy 
+The Shades 
+The Dial 
+The Ince Arms 
+The Durham Castle 
+The Sun in Sands 
+The Blind Beggar 
+The Black Lion 
+The Crotchet 
+The Abercorn Arms 
+The Three Salmons 
+The New Ferry 
+The Stanhope Arms 
+The Baker's Arms 
+The Red Lion and Spread 
+The Dreghorn Castle 
+The Zoological 
+The Grotto 
+The Buffcoat 
+The Black Raven 
+The Suffolk Fishery 
+The Old Rodney's Head 
+The Essex Serpent 
+The Normanton 
+The Blossoms 
+The Welcome Sailor 
+The String of Horses 
+The \Miarncliffe Arms 
+The Tharp Arms 
+The Look Out 
+The Three Frogs 
+The Nelson's Head 
+The Star and Fleece 
+The Sea Birds 
+The Grunting Hog 
+The Lads of the Village 
+The Tilden Smith 
+The Barne Arms 
+The Oat Sheaf 
+The Baker Arms 
+The Keel and Wherry 
+The Old Ivy House 
+The Orchard Gardens 
+The Mechanic's Larder 
+The Blue Ball 
+The Crystal Palace 
+The Finish 
+The Three Loggerheads 
+The Lattice 
+The King and Tinker 
+The Great A "S'axhani 
+The Florist 
+The Old Friends 
+The Lode's Head 
+The Watch House 
+The Trees 
+The Tigress 
+The Hare Arms 
+The Inkerman 
+The Express 
+The Garden House 
+The Raby Castle 
+The Railway Arms 
+The Yeoman 
+The Saint John of 
+The WTiite Hart 
+The Lane Ends 
+The Ship on Launch 
+The Marksman 
+The Hero ol Alma 
+The Derby 
+The Duke of Norfolk 
+The Recreation 
+The Foresters 
+The Old Robin Hood 
+The Harlequin 
+The Harlequin 
+The Three Cups 
+The Full Moon 
+The Battery 
+The Crown and Cushion Eton 
+The Red Lion and 
+The Hammer in Hand 
+The Dog and Crook 
+The Lord Howe's Arms 
+The Lion and French Horn 
+The Gaiety 
+The Crown and Horns 
+The Atlantic 
+The Star and Garter 
+The Old London Bridge 
+The Pied Horse 
+The Saint Bartholomew 
+The Hercules Pillars 
+The Sycamore Tree 
+The Fox and Yorkshire 
+The Chandos Arms 
+The Woolsack 
+The Zetland 
+The Midge 
+The Acorn 
+The Stork and Castle 
+The Sun in Splendour 
+The Hope and Anchor 
+The World 
+The Scissors and Pen, 
+The Amato 
+The Mariners 
+The Sovereign 
+The Just in Time 
+The Smiling Man 
+The Chinese Temple 
+The Ramping Lion 
+The Green Gates 
+The Hark to Nudger 
+The Swallow 
+the Golden Bottle at the well-known bank in Fleet Street. 
+The Oporto 
+The Green Man and Still 
+The Rainbow and Dove 
+The Load of Hay 
+The Burns 
+The Middevon 
+The Falkland Arms 
+The Saint James 
+The Prince of Denmark 
+The Hoste Arms 
+The City of London 
+The Golden Rose 
+The Blenheim Arms 
+The Bell and Horns 
+The Three Moorhens 
+The Golden Star 
+The Coronet 
+The Dundas Arms 
+The Old Hat 
+The ^^ iirtemberger Hop 
+The Blue Last 
+The Plume of Feathers 
+The Lion and Lamb 
+The Simon the Tanner 
+The Alexandra 
+The Dove 
+The Intrepid Fox 
+The Eight Bells 
+The Hog and Chequers 
+The Grey Friars 
+The Princess Amelia 
+The New Park 
+The Water Mill 
+The Cedar Tree 
+The Duke of Cornwall 
+The Rosemary 
+The Labour in Vain 
+The Fishmongers 
+The Ben Jonson 
+The Cock and Anchor 
+The Black Horse 
+The Little John 
+The Postchaise 
+The Buckingham Palace Stevenage 
+The New Clown 
+The City of Gloucester 
+The Flint Cottage 
+The Bubble and Squeak 
+The Laurel Tree 
+The Pound Tree 
+The Helvetia 
+The Free Trade 
+The Brick Kilns 
+The Horse and Gate 
+The Fisherman's Return 
+The Steam Packet 
+The Travellers' Rest 
+The Old Sergeant 
+The Caxton Gibbet 
+The Vernon Arms 
+The Sailors' Home 
+The Torbay 
+The Punch House 
+The London Stone 
+The Earl St. Vincent 
+The Queen and Prince 
+The Fort St. George 
+The Most Ancient Inns 
+The Unthank Arms 
+The Golden Boar 
+The Defiance 
+The Cro\\^l and Raven 
+The John Gilpin 
+The Red House 
+The Stag 
+The Axe and Anvil 
+The Royston Crow 
+The Golden Last 
+The Duke's Motto 
+The Princess Victoria 
+The Three Tuns 
+The Moderation 
+The Wake Arms 
+The Red Cat 
+The VaUant Trooper 
+The Noah's Ark 
+The New River Head 
+The Cow and Snuffers 
+The Half Moon and Star 
+The One Pin 
+The Bear and Cross 
+The Old Hatchet 
+The Rose of Kent 
+The Prince George of 
+The Elgin 
+The Seymour Arms 
+The Smoker 
+The Smoker 
+The Sergison Arms 
+The Ivy Cot 
+The Industry 
+The Jack on a Cruise 
+The Man Laden with 
+The Bolingbroke 
+The New Falcon 
+The Royal Sovereign 
+The Bear and Raggetl 
+The Toll Bar 
+The Tourist 
+The Old King's Head 
+The Haberdashers' Arms 
+The Cheddar Cheese 
+The One Bull 
+The Merry Cricketers 
+The Rose and Crown 
+The Jolly Sailors and 
+The Stag's Head 
+The Ibex 
+The Chester Cup 
+The Barking Fishery 
+The Woman and Trumpet 
+The Kentish Yeoman 
+The Portsmouth Arms 
+The World Turned Up- 
+The Kettledrum 
+The Neptune 
+The Land's End 
+The Crown and Hundred 
+The Pick and Hammer 
+The Mother Shipton 
+The Saracen's Head 
+The Winterslow Hut 
+The Victoria Arms 
+The Cosy Corner 
+The Bancroft Arms 
+The Duncannon 
+The Wheel and Compass 
+The Empress 
+The Ivy Bush 
+The Acland Arms 
+The Plough and Sail 
+The Old Coffee House 
+The Engine 
+The Three Mile Inn 
+The Compass 
+The Hundred House 
+The Three Nags 
+The Man Laden with Oxford St. Hogarth 
+The Safe Harbour 
+The None the Wiser 
+The Rockingham Arms 
+The Shovel, The Boot. 
+The Sugarloaves 
+The Princess Charlotte 
+The Magpie 
+The Magpie 
+The Free Trader 
+The Robin Hood and 
+The Leather Bottle 
+The Cross Daggers 
+The Owen Glendower 
+The Childe Harold 
+The Sea Horse 
+The Market 
+The Duke of Kent 
+The Three Pots 
+The Bold Napier 
+The Farriers' Arms 
+The Guildhall 
+The Hop Bine 
+The Highflyer 
+The Cellar House 
+The Cricketers 
+The FitzWilliam Arms 
+The White Horn 
+The Lost Child 
+The Freemasons 
+The Old Roundabout 
+The Bag of Nails 
+The Hob of the Well 
+The Peahen 
+The Blue Cow 
+The Three Harts 
+The Serpent and Eagle 
+The Great Mogul 
+The Customs House 
+The Paxton Head 
+The Keigwin Arms 
+The Royalty 
+The Fir Tree 
+The Duchy 
+The Duchy 
+The Volunteer 
+The Haven 
+The Horse and Harrow 
+The Grapes 
+The Mount Pleasant 
+The Hermit 
+The Mariner's Compass 
+The Trip to Jerusalem 
+The Balloon 
+The First and Last Sennen 
+The Doublelock 
+The Boleyn 
+The Falcon 
+The Great Eastern 
+The Butt and Oyster 
+The Five Oaks 
+The Dumb Bell 
+The Vineyard 
+The Race Horse 
+The Three Pigeons and 
+The Mechanics' Arms 
+The Bricklayers' Arms 
+The Hen and Chickens 
+The Royal Military 
+The Raby 
+The Three Pigeons 
+The Horseshoe and Castle 
+The Glittering Star 
+The Shakespeare 
+The Gate Hangs Well 
+The Eagle and Wheat- 
+The Barking Smack 
+The Old Clock House 
+The Old Waggon and 
+The Redan 
+The Tally Ho 
+The Fig Tree 
+The Dying Gladiator 
+The Anchor in Hope 
 the Great, the hero of Rosbach. 
+The Clock 
+The Green Tree 
+The Civil Usage 
+The Cape of Good Hope 
+The Tandem 
+The Three Herrings 
+The Cloth Hall 
+The Welsh Harp 
+The Town of Leith 
+The Green Man and Ashbourne 
+The Old Plough 
+The Black Boys 
+The Pear Tree 
+The Cross Hands 
+The Allsopp House 
+The Old Gate House 
+The Foundry Arms 
+The Gibraltar 
+The Hat and Feathers 
+The Blue Fox 
+The Marquis of Lome 
+The Morning Star 
+The Queen's Head and 
+The WTieel 
+The World's End 
+The Cock and Pye 
+The Two Necked Swan 
+The Hero of Inkerman 
+The Sultan 
+The Dawn 
+The Lord Conyers' Arms 
+The Plume 
+The Queen Adelaide 
+The Opera 
+The Three Oaks 
+The Bel and Dragon 
+The Angel and Trumpet 
+The Cotton Tree 
+The One Crown 
+The Rose Bud 
+The Bell and Mackerel 
+The Horn of Plenty 
+The Barnardiston Head 
+The North Country House 
+The WTiite Cross 
+The Norfolk Arms 
+The Fleur de Lys 
+The William the Fourth. 
+The Lyttleton Arms 
+The Artichoke 
+The French Horn and 
+The Black Hart 
+The Diamond 
+The Black Bell 
+The Portland Arms 
+The New Globe 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Lord 
+The Happy Home 
+The Wounded Hart 
+The Cricketers' Arms 
+The Lock 
+The Magpies 
+The Spaniards 
+The Colliers' Arms 
+The White Hart 
+The Merry Fiddlers 
+The Olive Leaf 
+The Corporation Arms 
+The Pencutters' Arms 
+The Woolpack 
+The Montague Arms 
+The Two Pointers 
+The Mansion House 
+The Victoria 
+The Labourers' L'nion 
+The Foresters' Arms 
+The Eel Pie 
+The Grapes and Anchor 
+The Cricket Players 
+The Cauliflower 
+The Granta 
+The Pot and Glass 
+The Ship and Sailor 
+The Cross Bow 
+The Anvil 
+The Builders' Arms 
+The Mail Packet 
+The Four Alls 
+The Leg, Seven Stars, 
+The Bay Malton 
+The Ship Launch 
+The Old Hall 
+The Lamb and Flag 
+The Ivy 
+The Regalia 
+The Dog and Pheasant 
+The Durell Arms 
+The Deer's Hut 
+The Two Quarts 
+The Dolphin in Bishopsgate is mentioned by Stowe i5i3,and probably 
+The Rose and Thistle 
+The Hart's Horns 
+The Dolphin 
+The Rodney and Hood 
+The Three Jolly Gar- 
+The Three Cats 
+The Hermit's Cave 
+The Lilliput Hall 
+The Orchard 
+The Heights of Alma 
+The Pike and Eel 
+The Traveller's Rest 
+The Crown and Shears 
+The Rutland Arms 
+The Highland Laddie 
+The Rainbow 
+The Hop Poles 
+The Inns of Court 
+The Cat and \Vheel 
+The Lattice Barn 
+The Yarmouth Arms 
+The Hat and Feather 
+The Pleasant Retreat 
+The Evening Gun 
+The Stniggler 
+The City of Carlisle 
+The Two Chairmen 
+The Cowherds 
+The Hawarden Castle 
+The E.U.R. 
+The Purslow Hundred 
+The Spade and Becket 
+The Milton's Head 
+The Prince of Prussia 
+The Beechwood 
+The Royal Sailor 
+The Earl of Derby 
+The Bleeding Heart 
+The Volunteer Arms 
+The Dublin Castle 
+The Jug and Glass 
+The Jacob's Well 
+The Nursery 
+The Three Legged Cross 
+The Eclipse 
+The Barge Aground 
+The Squirrel's Head 
+The Voltigeur 
+The Otter 
+The Scutchers' Arms 
+The Lamb and Lion 
+The Pope's Head 
+The Pope's Head 
+The Hand and Racquet 
+The Marquis of Hastings 
+The Duke of Wiirtembur^ 
+The Butcher and Beast 
+The Shepherd and Shep- 
+The St. Andrew's Head 
+The London 
+The Queen Anne 
+The Heath House 
+The Brushmakers' Arms 
+The Rose and Shamrock 
+The Shetland Pony 
+The Cuckoo 
+The Three Boars 
+The American Flag 
+The Castle and Falcon 
+The Bull's Head 
+The IMagpie and Crown 
+The Green Gardens 
+The Spare Rib 
+The Moorgate 
+The Captain of the Man 
+The City of Paris 
+The Cupid and Bow 
+The Old Duke's Head 
+The Golden Stream 
+The Lame Dog 
+The Boat Builders' Arms 
+The Harbour 
+The Cock and Neptune 
+The Old Yew 
+The Sparrowhawk 
+The Razor and Hen, 
+The Duke of Sutherland 
+The Musician 
+The Hay Cutters 
+The Well Head 
+The Prince Frederick 
+The Three Moles 
+The Fullers' Arms 
+The British Flag 
+The Firs 
+The Great Stone 
+The Kings and Keys 
+The Horns 
+The Jolly Gardener 
+The Waverley 
+The Warwick Castle 
+The Hero of Switzerland 
+The Golden Bells 
+The Althorpe Arms 
+The Coldstream 
+The Norfolk Hero 
+The Rose and Three Tuns 
+The Bird and Gate 
+The Grey Horse 
+The Alderman 
+The Cadogan Arms 
+The Axe and the Bottle, 
+The Spanish Galleon 
+The Cavalry Arms 
+The True Briton 
+The Hill Top 
+The Loggerheads 
+The Duke of Leeds' Arms 
+The Queen Catherine 
+The Ark 
+The Royal Arms 
+The Admiral Carter 
+The Merry Carpenters 
+The O'.d Guinea 
+The May Bush 
+The Spinners' Arms 
+The Cinqae Ports 
+The Steam Hammer 
+The Hop Pole 
+The Hawk 
+The Jolly Dealers 
+The Unicorn 
+The Board 
+The Amhurst Arms 
+The Eagle 
+The Holderness 
+The Father Redcap 
+The Post Office 
+The Four Cross Roads 
+The Gate 
+The Greyhound Pup 
+The Hind's Head 
+The Flower of Kent 
+The Ivor Arms 
+The Bushel 
+The Parr's Head 
+The Two Towers 
+The Crown and Mitre 
+The Andrew Marvel 
+The Old Mail Coach 
+The Castle and Ball 
+The Ailesbury Arms 
+The Apple Tree 
+The Ostrich 
+The Ostrich 
+The Eight Ringers 
+The Bow Bells 
+The Sedan Chair 
+The Rabbit 
+The Porters' Arms 
+The Castle and Plough 
+The Queen Elizabeth 
+The Witham 
+The Wyndham Arms 
+The Castle Arms 
+The Shears 
+The Bull and Pump 
+The Old King of Prussia 
+The Bear and Crown 
+The Jolly Brewers 
+The Elms 
+The Bridge House 
+The Three Mariners 
+The Askew Arms 
+The W'arren House 
+The Duchess of York 
+The Fern Cottage 
+The Spring View 
+The Island Green 
+The Duke of Fife 
+The Clachan 
+The Bird i' th' ?Iand 
+The Queen of Trumps 
+The Shepherd and Flock 
+The Stradbroke Arms 
+The Clarence Harbour 
+The Trouble House 
+The Catch'em 
+The Three Magpies 
+The Choughs 
+The Negro's Head 
+The George and Gate 
+The Marquis 
+The Prince of Hesse 
+The Chequers 
+The Lion's Head 
+The Scarborough Spa 
+The Silver Trumpet 
+The Round Oak 
+The King's Head and 
+The Rochester Castle 
+The Cock and Magpie 
+The Woodbine 
+The Chelsea Pensioner 
+The George and Vulture 
+The Bee 
+The Fort 
+The Horns and Horse- 
+The Crown and Apple Tree Berwick Street 
+The Market Gardener 
+The Duke of Hamilton 
+The Three Horseshoes 
+The Hampshire Hog 
+The Newcastle 
+The Flower Pot 
+The Hearts of Gold 
+The Final 
+The Toil Gate 
+The Fish 
+The Hoops 
+The Box Tree 
+The Skinners' Arms 
+The Castle and Keys 
+The Diamond Reign 
+The Curriers' Arms 
+The Pied Bull | 
+The Ram 
+The Magnet 
+The Gordon Arms 
+The Leeds Arms 
+The Apollo 
+The Fox and Anchor 
+The Half Moon 
+The Three Johns 
+The Robert Burns 
+The Calf's Head 
+The Earl of Beaconsfield 
+The Sunbeam 
+The Horseshoe and Mag- 
+The Surprise 
+The Axe and Saw 
+The General Elliott 
+The Crispin 
+The Golden Ball 
+The Shannon 
+The Fox and Goose 
+The Three Ashes 
+The L)^gon Arms 
+The Volunteers' Arms 
+The Old Hatch House 
+The Marlbank 
+The Fountains Abbey 
+The Jolly Waggoners 
+The Iron Duke 
+The Rest 
+The Garrick 
+The Rampant Horse 
+The Diamond Jubilee 
+The Diamond Jubilee 
+The White House 
+The Locomotive 
+The Green j\Ian and 
+The Crab Tree 
+The Cambridge 
+The Duke of Gloucester 
+The Five Alls 
+The Captain Digby 
+The Oxford Arms 
+The Highbury Barn 
+The Little Rose 
+The Green Shutter 
+The Hark to Bounty 
+The New Corn Exchange 
+The Caledonian 
+The Red Lion and Ball 
+The Bullfinch 
+The Royal Tar 
+The Who'd a' Thought It 
+The Gun and Tent 
+The Hoy 
+The Seven Stars 
+The Seven Stars 
+The Crooked Chimney 
+The Fire Brigade 
+The Crown and Treaty 
+The Crown and Treaty 
+The Crown Kenton 
+The Queen Charlotte 
+The Peace and Plenty 
+The Wild Horse 
+The Apple Tree and 
+The Two Greyhounds 
+The Goat 
+The Spotted Horse 
+The Brown Bear 
+The London Apprentice 
+The Cupid 
+The Samson's Castle 
+The Shore Boat 
+The Boat and Anchor 
+The Old Chesterfield 
+The Smyrna 
+The Rose, Shamrock and 
+The Dark Lantern 
+The Fountain 
+The Haunch of Venison 
+The Duchess of Clarence 
+The Scotland 
+The Cold Bath 
+The American 
+The Swan with Two 
+The Swan with Two 
+The Hercules 
+The Schooner 
+The Prince's Head 
+The Tregonwell Arms 
+The Scotch Thistle 
+The Wallace Head 
+The Tun and the Lute, 
+The George Peabody 
+The Gladstone Arms 
+The Ship Afloat 
+The Maltsters ^ 
+The Fox 
+The Royal Albert 
+The Haycock 
+The Liverpool Arms 
+The Maltman and Shovel 
+The Neville's Cross 
+The Who'd Have Thought Barking 
+The Hare and Bell 
+The Old Greenland Fish- 
+The Crown and Dolphin Royston 
+The Admiral 
+The Admiral 
+The Jolly Farmers 
+The Round of Beef 
+The Royal Essex Arms 
+The Gravediggers' Arms 
+The Horse and Wells 
+The Pocock Arms 
+The Smack 
+The Slow and Easy 
+The Hare and Billet 
+The Fortune of War 
+The Five Bells 
+The Duke of York 
+The Highland Chief 
+The Eel's Foot 
+The Fox and French 
+The Princes' Arms 
+The Leviathan 
+The Cottage of Content 
+The Oliver Twist 
+The Jenny Lind 
+The Kite's Nest 
+The Red Lion and Sun 
+the leaders of the Salisbury mail. The Coach and Horses, Clerkenwell, 
+The Pier 
+The Bull 
+The Rock of Gibraltar 
+The Ram and Teazle 
+The Victory 
+The Victory 
+The Highest Inns 
+The Isle of Skye 
+The Hand and Cleaver 
+The Punch 
+The Tabard 
+The Old White Lion 
+The Garden 
+The Farewell 
+The Ship and Blue Ball 
+The Three Wlieatsheaves 
+The Three Furnaces 
+The Durham Ox 
+The Ketch 
+The Bull and Stirrup 
+The Angler's Rest 
+The Good Samaritan 
+The Montagu Arms 
+The Mogul 
+The Comus 
+The Alford Arms 
+The Zetland Arms 
+The Wlieel of Fortune 
+The Quart 
+The Fox under the Hill 
+The Market Place 
+The W'harfedale 
+The Grampus 
+The Hero of Maida 
+The Centurion 
+The Fish and Ring 
+The Queen's Arms 
+The Globe 
+The Arab Bo}^ 
+The Gun 
+The Gun 
+The Lock and Key 
+The Newby Head 
+The Newby Head 
+The Parkers' Arms 
+The Telegraph Arms 
+The Old Quiet Woman 
+The George 
+The George 
+The George 
+The George 
+The George 
+The George 
+The Ellison Arms 
+The Hand and Glove 
+The Princess Beatrice 
+The Antelope 
+The Horse and Dorsers 
+The Rifleman 
+The Golden Lion 
+The Chimes 
+The Coach and Horses 
+The Grave Maurice 
+The Man in the jNIoon 
+The Goat's Head. 
+The Dun Horse 
+The Waterloo 
+The Thorn 
+The Sailor's Return 
+The Dog and Badger 
+The Axe 
+The Abbey 
+The Manger 
+The Tw^o Bells 
+The Swan and Castle 
+The Factory Arms 
+The Square and Com- 
+The Canterbury 
+The Old Farmhouse 
+The Punchbowl 
+The Duke of Bedford 
+The Ploughboy 
+The Oueen Caroline 
+The Cheddar Valley 
+The Lord Arran's Arms 
+The Rhadegund 
+The Britannia 
+The Wharton Arms 
+The City of Quebec 
+The Fourteen Stars 
+The George and Horn 
+The Harrow 
+The Welhngton 
+The Bugle Horn 
+The Fish and Eels 
+The Wine House 
+The Conquering Hero 
+The Three Goats 
+The New Crown 
+The Ring O' Bells 
+The Leg of Mutton and 
+The Sumpter Horse 
+The Bird Bolt 
+The Pot of Flowers 
+The Patna 
+The Black Chequers 
+The Richmond Hill 
+The Commercial 
+The Roach 
+The Cedars 
+The Pin and Bowl 
+The Marquis of Granby 
+The Nell Gwynne 
+The Coachmakers' Arms 
+The Foul Anchor 
+The Ploughshare 
+The Jolly Scotchman 
+The Duke of Lancaster 
+The Bell and Birdcage 
+The Blue Posts 
+The Dartmouth Arms 
+The Club House 
+The London Hospital 
+The Staff of Life 
+The Queen Victoria 
+The Queen Victoria 
+The Prince Consort 
+The Channel Islands 
+The Row Barge 
+The Row Barge 
+The New Crane 
+The Dog and Fox 
+The Star and Windmill 
+The Bunch of Grapes 
+The Newcastle-on-T^-ne 
+The Old Rose 
+The Gallon Can 
+The Bird 
+The King and Prince of 
+The Porcupine 
+The Jolly Carter 
+The Duck in the Pond 
+The Hatchet 
+The Fishmongers' Arms 
+The Rat Catcher 
+The White Rose 
+The Prince Rupert 
+The Horse 
+The Enterprise 
+The Thames 
+The Old Inn 
+The Swan and Mitre 
+The Key 
+The Three Pilchards 
+The Rose and PortculUs 
+The Three Postboys 
+The Star in East 
+The Drum and Monkey 
+The Fighting Cocks 
+The Californian 
+The Horse and Groom 
+The Rutland 
+The Old Justice 
+The Highlander 
+The Kimberley Arms 
+The Two Mile Brook 
+The Lincoln Arms 
+The Coffee Pot 
+The Bull and Chain 
+The Savoy Palace Savoy Street 
+The Ohve Branch 
+The Two Brewers 
+The Ram and Magpie 
+The John q' Groats 
+The Myrtle 
+The Jolly Brewer 
+The Volunteers 
+The Gladstone 
+The Pilot Barge 
+The Scotchman and His 
+The Cock and Hoop 
+The Graziers 
+The Tulip 
+The Grandison 
+The Druids' Arms 
+The Ship Argo 
+The Arundel Castle 
+The Coal Hole 
+The Fulham Bridge 
+The Isle of Wight 
+The Black Goose 
+The Clarendon 
+The Queen 
+The Old Windmill 
+The Heartsease 
+The Jolly Butchers 
+The Royal Exchange 
+The Bristol Arms 
+The George and Angel 
+The Fitzroy Arms 
+The Freedom of Opinion 
+The Wood's End 
+The Lobster Smack 
+The Vicar of Wakefield 
+The Shoulder of Mutton 
+The Silk Mills 
+The Prince Albert 
+The Commonwealth 
+The Indian Queen 
+The Dunraven 
+The Duchess of Fife 
+The Ship and Star 
+The Queen's Elm 
+The Sun and Thirteen 
+The Mawson Arms and 
+The Guinea 
+The Whale and the Crow, 
+The Grey ]\Iare 
+The Sessions House 
+The Lincoln 
+The Six Bells 
+The Fox and Pony 
+The Gipsy's Tent 
+The Admiral Napier 
+The Portcullis 
+The Crown and Stirrup 
+The Cinder Ovens 
+The Recruiting Sergeant 
+The George and Devon- 
+The Dock 
+The Crown and Liver 
+The Bold Crispin 
+The Hand 
+The Golden Heart 
+The Lion and Fiddle 
+The Yacht 
+The Earl of Aberdeen 
+The Golden Cock 
+The Anglesey 
+The Crown and Woolpack 
+The Fox and Duck 
+The George and Guy 
+The Black Goats 
+The Lyceum 
+The Gate Hangs High 
+The Sceptre 
+The Rule and Compasses 
+The Samson and Lion 
+The Bush Thrush and 
+The Gregorian Arms 
+The Drover's Call 
+The Tontine 
+The Jolly Farmer 
+The Four Points 
+The Earl Grey 
+The Reservoir 
+The Cross Guns 
+The Cross Guns 
+The Blackbirds 
+The Garrick Head 
+The Lion and Castle 
+The Cheshire Cheese 
+The Highbridge House 
+The Cock and Pymat 
+The Leicester Lounge 
+The Lovat Arms 
+The New Market 
+The Rangers 
+The Drovers 
+The Yeovale 
+The Golden Cross 
+The Toll House 
+The Dog and Duck 
+The Dog in Doublet 
+The Royal Yacht 
+The Fishing Boat 
+The Stars and Stripes 
+The Moor Cock 
+The Brocklesby Ox 
+The Civet Cat 
+The Spanish Patriot 
+The Village Blacksmith 
+The Pass By 
+The Bombay Grab 
+The Dusty Miller 
+The Old House at Home 
+The Peep of Day 
+The Brown Cow 
+The Grey Friar 
+The Two Friends 
+The Admiral Rous 
+The Portugal 
+The Buckle 
+The Jack Straw's Castle 
+The Avalon 
+The Gunter Arms 
+The Birches' Head 
+The Fountain and Star 
+The Osborne Stroud Green 
+The Magdala 
+The Red Lion and Still 
+The Old Six Bells 
+The Cross 
+The Old Industrious Bee 
+The Ship in Distress 
+The British Camp 
+The Malt Shovels 
+The City Arms 
+The Worsteddealers' Arms 
+The Brocklesby Hunt 
+The Connoisseur 
+The Two Doves 
+The Golden Fleece 
+The West End 
+The Green Hill 
+The Bear and Bells 
+The Ring of Bells 
+The Chaise and Pair 
+The Young Prince 
+The Ladas 
+The Old Harrow 
+The Huntsman and 
+The Tower 
+The New Stag 
+The Rising Star 
+The Quiet Woman 
+The Buffalo 
+The Druid's Head 
+The Bramhill Hunt 
+The Clarendon Arms 
+The Old Magnet 
+The Hardwicke Arms 
+The Flying Fox 
+The Monument 
+The Yew Tree 
+The Lion and Crown 
+The Grand Junction Canal 
+The Navigation 
+The Albert Arms 
+The Mermaid and Foun- 
+The Painters' Arms 
+The Raven and Sun 
+The Stockton 
+The Woodbine Cottage 
+The ceremony of nicking the Royal and Corporation swans on the 
+The Oriental 
+The Three Jolly Weavers 
+The Flying Horse 
+The Three Marines 
+The Oddfellows' Arms 
+The Royal Oak 
+The Jovial Sailor 
+The Standard of England 
+The Butts 
+The W'illoughby Arms 
+The Culford Arms 
+The FUnt Boathouse 
+The Wheat Sheaf 
+The Orvvell 
+The Cape 
+The Anchor of Hope 
+The Goat in Boots 
+The Cat and Cage 
+the residence of Oliver Cromwell. 
+The Silver Lion 
+The Island Queen 
+The Bridgewater Arms 
+The Shuttles 
+The Garrison 
+The Blue Horse 
+The Eleven Cricketers 
+The Empress of Russia 
+The Sheer Hulk 
+The Wild Man 
+The Sun and Whalebone 
+The Parisian 
+The Carrots 
+The Bunbury Arms 
+The Hark to Lasher 
+The WTiite Bear 
+The Marquis of Anglesey 
+The Good Woman 
+The Marlborough Head 
+The Flying Dutchman 
+The Assembly House 
+The Boot and Shpper 
+The Thistle and Crown 
+The Touchstone 
+The Two Eagles 
+The Exliibition 
+The Finborough Arms 
+The Three Nuns 
+The Crown and Anvil Minories 
+The Gardeners' Arms 
+The George and Dragon 
+The George and Dragon 
+The George and Dragon 
+The Brewer and Baker 
+The Half Moon and 
+The Half Moon and 
+The Tan Hill Inn 
+The Fox and Ball 
+The Coach and Doncaster J. F. Herring 
+The Prince Teck 
+The Friendly 
+The Bull and Gate 
+The Lion and Swan 
+the then inhabited world of London. 
+The Hero of Moultan 
+The C. B. 
+The Black Jack 
+The Warrior 
+The Oiitriggers 
+The Swing Gate 
+The Hatchgate 
+The Prince and Princess 
+The Mermaid 
+The Wine Cooper's Arms 
+The Bank of England 
+The Duke William 
+The Talbot and Falcon 
+The Happy Union 
+The Anstey Arms 
+The Morning Gun 
+The Beech Tree 
+The Beefsteak 
+The Old Jail 
+The Festival House 
+The East Suffolk 
+The Union Jack 
+The Chapel 
+The Offord Arms 
+The Boyne Arms 
+The Quiet Shepherd 
+The Hand in Hand 
+The Bugle 
+The Brown Jug 
+The Blue Pig 
+The Blue Lion 
+The Blue House 
+The Peter the Great 
+The Running Footman 
+The Ketton Ox 
+The Dorset Arms 
+The Rosemary Branch 
+The Black Cock 
+The Papermakers' Arms 
+The Beaver 
+The Treble Tile 
+The Uncle Tom's Cabin 
+The Whittington 
+The Town Hall 
+The Farmer's Boy 
+The Nag's Head 
+The Repository 
+The Dick Turpin 
+The Mounted Volunteer 
+The Crosby 
+The Cock and Lion 
+The Great Northern 
+The Success 
+The York Minster 
+The New Star 
+The Trevor Arms 
+The Union Arms 
+The White Horse and 
+The White Horse and 
+The Cat and Lion 
+The Jolly Gardeners 
+The Ehn 
+The Otter and Fish 
+The Post Boys 
+The Wood Man 
+The Fox and Barrel 
+The Old Roebuck 
+The Golden Key 
+The Generous Briton 
+The Kemble's Head 
+The Oak and Acorn 
+The Whip and Collar 
+The Rum Puncheon 
+The Red Bull 
+The Spinning \Mieel 
+The Queen Dowager 
+The Steam Ship 
+The Jolly Waggoner 
+The Ram's Head 
+The Royal William 
+The Kent and Essex 
+The Angel Gardens 
+The Plough and Sickle 
+The Dyers' Arms 
+The Steam Boat 
+The Lamb and Lark 
+The Welldiggers' Arms 
+The Dragoon 
+The Grenadier 
+The Two Sawyers 
+The Friendship 
+The Hit or Miss 
+The Post Boy 
+The Barn 
+The Blue Cap 
+The Moss Rose 
+The Three Cocks 
+The End of the World 
+The Five Bells and 
+The Admiral Keppel 
+The University Arms 
+The Angel 
+The Angel 
+The Queen in the \\'est 
+The Rose of Lee 
+The Jolly Guardsman 
+The Earl Cathcart 
+The Ozone 
+The Glovers' Arms 
+The Fox and Pehcan 
+The Fife Arms 
+The Royal Adelaide 
+The Duke of Cambridge 
+The South Pole 
+The Goat and Compasses 
+The Windsor 
+The Load of Mischief 
+The Milford Haven 
+The P'ountain 
+The Crow 
+The Bull and Butcher 
+The Old Northumberland 
+The Two Beehives 
+The Aire and Calder 
+The Prince Edward 
+The Buck 
+The Calves Head Club met at the Black Boy, Newgate Street, 
+The Worcestershire 
+The Barnardiston Arms 
+The Ribs of Beef 
+The Airedale Heifer 
+The Compasses 
+The Black Rabbit 
+The Belinda Castle 
+The Bell and Anchor 
+The Blue Anchor 
+The Black Joke 
+The Thatchers' Arms 
+The Mutual Friend 
+The Old Ship 
+The Vine 
+The Hanging Gate 
+The Tankard 
+The Coalminers' Arms 
+The Barking Dogs 
+The Crown and Leek 
+The Old Tippling Philo- 
+The Dublin Packet 
+The Martello 
+The Dog and Bell 
+The Myrtle Tree 
+The Cathole 
+The Ship Aground 
+The Jolly Crispin 
+The Nelson's Monument 
+The Noon Svm 
+The Hark to Towler 
+The Miner's Rest 
+The Ship 
+The Grasshopper 
+The Parrot 
+The Boar's Head 
+The Thornton Hunt 
+The Globe and Engine 
+The Fen Plough 
+The Biddulph Arms 
+The Peter Boat 
+The Pitt and Nelson 
+The Northumberland 
+The Old Berkeley Hunt 
+The Beckford Head 
+The Ball House 
+The Dimsdale Arms 
+The North Star 
+The Treaty of Commerce 
+The Old Commodore 
+The Brunei 
+The Magna Charta 
+The Hound 
+The Soldier's Fortune 
+The Goliath 
+The Three Swans 
+The Pickerel 
+The Shepherd's Hut 
+The Old Swan 
+The Riviera 
+The Three Greyhounds 
+The Three Kingdoms 
+the Shoulder of Mutton and Cucumber. 
+The Feathers and Ex- 
+The Lamb 
+The Cutter 
+The Lion and Snake 
+The Rose 
+The Horseshoe and 
+The Sun Rising 
+The Crown and Seven 
+The Engine House 
+The First In and Last Bideford 
+The Jolly Maltster 
+The W'restlers' Arms 
+The Oakley 
+The Lambton Castle 
+The Spear in Hand 
+The Abingdon Arms 
+The Da\y Lamp 
+The Lytton Arms 
+The Sand Boy 
+The BUnk Bonny 
+The Original Red Lion 
+The Greenland Fishery 
+The Boot and Shoe 
+The Saint Cuthbert's 
+The Engineers 
+The Farmers' Arms 
+The Bath House 
+The Blue Bull 
+The Running Horse 
+The African Chief 
+The Green Bushes 
+The Glaziers' Arms 
+The Duke of Sussex 
+The Archduke Charles 
+The Two Lawyers 
+The Jubilee 
+The Clock Face 
+The Lowther Arms 
+The Royal Rifleman 
+The Black Griffin 
+The Bull and Mouth 
+The Prince of Windsor 
+The Railway Bell 
+The Bedford Arms 
+The Jane Shore 
+The Unwin Arms 
+The Old Green Man 
+The Jolly Hatters 
+The Buffalo's Head 
+The Christopher 
+The Brazen Serpent 
+The Old Jock 
+The Havelock Arms 
+The Pandora 
+The London Bridge 
+The Cat and Fiddle 
+The Cat and Fiddle 
+The Holly Bush 
+the Revolution of 1688 by the Earls of Danby and Devonshire, and Mr. 
+The Three Travellers 
+The Horn 
+The Bow Bridge 
+The Horse Artillery 
+The Furnace 
+The Which You Please 
+The Hand and Shuttle 
+The Hotpressers' Arms 
+The Castle and Anchor 
+The Saddle 
+The Old Cheshire Cheese 
+The Friend in Hand 
+The Old England 
+The Pin Cushion 
+The City of Hereford 
+The Royal Mail 
+The Oxford and Cam- 
+The Queen of England 
+The Hammer and Smithy 
+The Cod and Lobster 
+The Paragon 
+The Falcon's Nest 
+The Fleece 
+The Star of India 
+The Boatswain's Call 
+The Bedingfield Arms 
+The Hog in the Pound 
+The Saint Anne's Cross 
+The Blenheim 
+The Cross Rifles 
+The New ^^^lite Rose 
+The Lady jMildmay 
+The Old Jamaica 
+The Tanners' Arms 
+The Cow and Pail 
+The Robin Hood 
+The Old Rock House 
+The Dog and Bull 
+The Balmoral Edinburgh 
+The Broadface 
+The Hoop and Toy 
+The Crown and Punch- 
+The Anchor and Hope 
+The Blue Boy 
+The Cattle Market 
+The New Milf 
+The Carved Red Lion 
+The North Eastern 
+The Bull and Swan 
+The Key and Castle 
+The Tom in Bedlam 
+The Merry Month of May 
+The Summit 
+The Man and Saddle 
+The Flask 
+The Denbigh Castle 
+The Marquis Wellesley 
+The Crown and Angel Norwich 
+The Magpie and Stump 
+The Barley Mow 
+The Blacksmiths' Arms 
+The Coconut 
+The Cap and Feathers 
+The Duke of Grafton 
+The Craven Heifer 
+The Oak 
+The Three Compasses 
+The Fox and PeUcan 
+The Shore 
+The Bull and Horseshoes 
+The Willow Pattern 
+The Alliance 
+The Red Hart 
+The Bank 
+The Griffin's Head 
+The Oak Branch 
+The Stonemasons' Arms 
+The Bull and Dog 
+The Pindar of Wakefield 
+The Ox 
+The New Concord 
+The Somerset Arms 
+The Flyman's Home 
+The Ruperra 
+The Butchers' Arms 
+The Naked Man 
+The Naked Man 
+The Lily 
+The Birch Tree 
+The Red Dragon 
+The Elder Tree 
+The Engine and Tender 
+The Gospel Oak 
+The Green Market 
+The Old Friend 
+The Cleaver 
+The White Elm 
+The Saint Petrock 
+The \\'ensleydale Heifer 
+The Waveney 
+The Ashburnhara Arms 
+The Hack and Spade 
+The Stag and Hunt 
+The Queen and Artichoke 
+The Lady of the Lake 
+The Green Man and 
+The Anson Arms 
+The One Tun 
+The Tennis Court 
+The Wrestlers 
+The Leathersellers' Arms 
+The Thames Valley 
+The \\^leatland Fox 
+The Shepherds' Arms 
+The Rock 
+The Sportsman's Arms 
+The Three Sisters 
+The Free Press 
+The Royal Stag 
+The Horse and Trumpet 
+The Three Fishes 
+The Pakenham 
+The Duchess of Kent 
+The Old Maltscoop 
+The Drover's Rest 
+The Phoenix 
+The Ironmongers' Arms 
+The Pig and Wliistle 
+The Weavers' Arms 
+The Halberd 
+The Star 
+The Star 
+The Verulam Arms 
+The Constitution 
+The Priory 
+The John Bull 
+The Bushel and Strike 
+The Wynyard 
+The Roadside 
+The Duke of Wellington 
+The Sun and Woolpack 
+The Two Bears 
+The Savoy 
+The Columbia 
+The Pigeon 
+The Essex 
+The Three Feathers 
+The Stag and Hunters 
+The Marquis of Lothian 
+The Eagle and Child 
+The Shannon and Chesa- 
+The Randolph 
+The Brook 
+The Ordnance Arms 
+The Pointer 
+The White Lion 
+The Armoury 
+The Maiden's Head 
+The Gun and Magpie 
+The Herschel Arms 
+The Canadian 
+The Spread E^gle 
+The Clown 
+The Star and Anchor 
+The Elm Tree 
+The Express Train 
+The Duchess of Edin- 
+The Pack Saddle 
+The Boat and Gun 
+The Cygnet 
+The Prince Leopold 
+The Light Dragoon 
+The Millstone 
+The Aberfeldy 
+The Falls of Niagara 
+The Jack's Booth 
+The Cat and Custard Pot 
+The Red Well 
+The Round Table 
+The Round Table 
+The Fishery 
+The Plough and Harrow 
+The White Horse 
+The Donkey and Buskins 
+The Affleck Arms 
+The Hunted Stag 
+The Old Golden Lion 
+The Carnarvon Castle 
+The Green Gate 
+The King Harold's Head 
+The Wear Valley 
+The Red Deer 
+The Blue Man 
+The Ball 
+The Grove 
+The Beach 
+The Coopers' Arms 
+The Blue Peter 
+The Daniel Lambert 
+The Duck and Dog 
+The Earl of Cardigan 
+The Cart and Horses 
+The Ringers 
+The Four Swans 
+The Four Swans 
+The Admiral Codrington 
+The Bolton Abbey 
+The Peacock 
+The Old Red House 
+The Fox and Pheasant 
+The Fox and Pheasant 
+The Jack of Newbury 
+The Salmon and Com- 
+The Old Crown 
+The Leopard 
+The Thicket 
+The Osney Arms 
+The Sedge Sheaf 
+The Three Rabbits 
+The Boat 
+The Country House 
+The Old King Harry 
+The Hoop 
+The Ivanhoe 
+The Saint Anne's 
+The Rifle Volunteers 
+The Crown Prince of 
+The Stork 
+The Imperial Measure 
+The Three Legs 
+The Old Raggles 
+The Bazaar 
+The City of Norwich 
+The Bishop Bonner 
+The Hay Makers 
+The No Place 
+The George and Thirteen 
+The Oak and Ivy 
+The Maldon Grey 
+The Greyhound 
+The New Bell and Crown 
+The Bell 
+The Bell 
+The Old Star 
+The Hand and Flower 
+The Saint Andrew 
+The Black Dog and Duck 
+The Running Mare - 
+The Bottle and Glass 
+The Harvest Man 
+The Horse and Chains 
+The Silver Oar 
+The Foundry 
+The Light Horse 
+The Five Arrows 
+The Tom Brown House 
+The Axe and Compass 
+The Bear and Billet 
+The Bear and Billet 
+The Bull and Anchor 
+The Crown and Grapes 
+The London Assurance 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Old 
+The Catch All 
+The Arabian Horse 
+The Royal Foresters 
+The New Gardener's 
+The Caledonian Arms 
+The One Bell 
+The Old Sea Lion 
+The Black Prince 
+The Colville Arms 
+The Shoe 
+The Good Intent 
+The Prince Alfred 
+The Number One Tower 
+The Salmon and Ball 
+The New White Hart 
+The Royal Goat 
+The Pansy 
+The Indian Chief 
+The Swan and Bottle 
+The Unity 
+The Three Jolly Sailors 
+The Joiners' Arms 
+The Baron of Beef 
+The Robinson Crusoe 
+The Thatched House 
+The Hay Field 
+The Hand and Marigold 
+The Bleeding Horse 
+The Sun 
+The Aston Arms 
+The Australian 
+The Atlas 
+The Sun in Wood 
+The Lord High Admiral 
+The Withy Trees 
+The Whitmore Head 
+The Running Buck 
+The Three Cranes 
+The Black's Head 
+The Cuckoo Oak 
+The Old Rover's Return 
+The Ash 
+The Poulett Arms 
+The Cabbage 
+The Three Hills 
+The W^hite Heifer 
+The Green Bank 
+The Mountain Ash 
+The Daisy 
+The British Workman 
+The Huntsman's Call 
+The Fleur de Lis 
+The Polar Bear 
+The Fifteen Balls 
+The Virginia Planter 
+The Jamaica 
+The Steam Engine 
+The Butler's Head 
+The Ferry 
+The Ferry 
+The Needlemakers' Arms 
+The Woodman's Arms 
+The Woodman's Arms 
+The Plough and Fleece 
+The Metropolitan 
+The Alma 
+The Pilot Boat 
+The Alwyne Castle 
+The Tan Hill 
+The Lillie Arms 
+The Silver Tree 
+The Black Boy and Still 
+The Bush 
+The Mallet and Tool 
+The Pyewipe 
+The Jolly Coopers 
+The Four Horseshoes 
+The Mortal Man 
+The Mortal Man 
+The Hark to Mopsey 
+The Goat and Boot 
+The Miller of Mansfield 
+The Dog and Partridge 
+The Jolly Waterman 
+The Cathedral 
+The Nowhere 
+The Bun Shop 
+The Heifer 
+The Old Cocoa Tree 
+The Rifle 
+The Bankes Arms 
+The Vane Arms 
+The Horse and Farrier 
+The White Bell 
+The Shepherd's Rest 
+The Coach and Dogs 
+The Fishing Smack 
+The Grey Bull 
+The Pack Horse 
+The Brookfield House 
+The Yorkshire Stingo 
+The Cemetery 
+The Medway 
+The Mail Coach 
+The Cliff 
+The British Volunteer 
+The Jew's Harp 
+The Windsor Castle 
+The Windsor Castle 
+The Havering Bower 
+The Brewer replied, with artful pride 
+The Black Dog 
+The Plumbers* Arms 
+The Ocean 
+The Panther 
+The York and Albany 
+The Dick 
+The Crane 
+The Trinity Arms 
+The Cornopean 
+The Oak Tree 
+The Blue Coat Boy 
+The Fish and Anchor 
+The Grosvenor Basin 
+The Lyric 
+The Furness Abbey 
+The Old Sugarloaf 
+The Golden Harp 
+The Lighthouse 
+The Bay Tree 
+The Flitch of Bacon 
+The Silver Tavern 
+The Kisby's Hut 
+The flavour of our honey. 
+The Bottles 
+The Coat and Badge 
+The Waggon and Horses 
+The Puss in Boots 
+The Mall 
+The Mayfair 
+The Stirling Castle 
+The Horseshoes 
+The Railway 
+The Prince of Brunswick 
+The Leeds and Liverpool 
+The Willow Tree 
+The Yorkshire Grey 
+The Devonshire 
+The Pied Calf 
+The Two Mariners 
+The Queen's Head 
+The Sliip and Lighter 
+The County Arms 
+The Trout 
+The Boar 
+The Musical 
+The Minorca 
+The Magpie and Punch- 
+The Blade Bone 
+The Vale of Health 
+The Saint Clement's 
+The Dray and Horses 
+The New Jolly Caulkers 
+The Ivy Leaf 
+The Artilleryman 
+The Hero of Waterloo 
+The Ferry Boat 
+The Essex Head 
+The Staffordshire Knot 
+The New Swan 
+The Duke of Devonshire 
+The Harbour View 
+The Cock and. Flower 
+The Coeur de Lion 
+The Experienced Fowler 
+The Winged Bull 
+The Jolly Miller 
+The Three Lords 
+The Peacock and Royal 
+The General 
+The General 
+The General 
+The General 
+The General 
+The General 
+The General 
+The General 
+The General 
+The General 
+The Village Maid 
+The Stone House 
+The Pointers 
+The Hourglass 
+The City of Rome 
+The Boy and Barrel 
+The Viaduct 
+The Halfway House 
+The Sailor's Farewell 
+The Caxton Arms 
+The Princess of Wales 
+The Three Elms 
+The Dewdrop 
+The Compiler zvishes to express his 
+The Lion 
+The Bear and Pole 
+The WTiite Lion 
+The Cossack 
+The Silent Woman 
+The Prince of Teck 
+The Spring 
+The Buck and Dog 
+The Little Dustpan 
+The White Raven 
+The Old Cock 
+The Red Lion and Key 
+The Cherry Arbour 
+The New Beehive 
+The William James 
+The Blue Bell 
+The Princess May 
+The Manor House 
+The Admiral Mann 
+The Tumble-down Dick 
+The Malakoff 
+The Station 
+The South Sea 
+The Old Lattice 
+The Pack Horse and 
+The Stag Doncaster J. F. Herring 
+The Foxhall 
+The Galleons 
+The Sloop 
+The Gull 
+The Mill 
+The Old Post Office • 
+The Fox Hound 
+The Castle 
+The Compleat Angler 
+The Platelayers' Arms 
+The Breakwater 
+The Marquis of Corn- 
+The Lion and WTieatsheaf 
+The Union 
+The Rose in June 
+The Fold Gate 
+The Cardinal's Cap 
+The Cardinal's Cap 
+The Crook and Shears 
+The Guide Post 
+The Little Drover 
+The Prince Albert Victor 
+The Ridgeway House 
+The Horns and Chequers 
+The Soldiers' Arms 
+The Stakes 
+The Plough and Shuttle 
+The Dun Cow 
+The Lancers 
+The Two Spies 
+The Royal 
+The Wire Trellis 
+The Slap Up 
+The Ship Victory 
+The Water Lily 
+The John Barleycorn 
+The John Barleycorn 
+The Edinburgh Castle 
+The Carters' Arms 
+The Barrack 
+The Furze Bush 
+The Seven Sisters 
+The Minders' Arms 
+The Town of Ramsgate 
+The Duke of Suffolk 
+The Lady Franklin 
+The Assheton Arms 
+The Dapple Grey 
+The Granville 
+The Still 
+The Land of Liberty 
+The Dog and Pot 
+The Blackbird 
+The True Blue 
+The Providence 
+The Lion and Unicorn 
+The Colleen Bawn 
+The Old Oak 
+The Portman Arms 
+The Coburg Arms 
+The Great Western 
+The Anchor 
+The Rummer 
+The City of New York 
+The Merry Harriers 
+The Garibaldi 
+The Adam and Eve 
+The Cranley Arms 
+The Island of Skye 
+The Axe and Hand Saw 
+The Merton Arms 
+The Black Hatchet 
+The Bower 
+The Water Head 
+The King's Arms and 
+The King's Arms and 
+The Gurnon Bushes 
+The Rodney 
+The God Speed the 
+The Bear and Rummer 
+The Wind Mill 
+The Harvest Home 
+The Hand and Sceptre 
+The Monarch 
+The Bull and Stars 
+The Dick Whittington 
+The Dick Whittington 
+The Cow and Hare 
+The Swan and Sugarloaf 
+The Horse and Gear 
+The Earl of Essex 
+The Zulu 
+The Red Cross 
+The Rose Cottage 
+The Hut 
+The Dog and Gun 
+The Chapman 
+The Chestnut Horse 
+The Nassau 
+The Cock and Bottle 
+The Doves 
+The Swan and Pyramids 
+The Prodigal's Return 
+The Cobwebs 
+The Saint Paul 
+The Correction 
+The Beauchamp Arms 
+The Old Fiddle 
+The Corn Exchange 
+The Plough and Duck 
+The Windham Arms 
+The Old Parr's Head 
+The Bay Horse 
+The Brickmakers' Arms 
+The Old Greyhound 
+The King and Queen 
+The Wild Ox 
+The Admiral Nelson 
+The Union Flag 
+The Crown and Harp 
+The Cherry Tree 
+The Vintage 
+The Oyster 
+The Hundred And One 
+The City of Canton 
+The Manchester 
+The Valiant Sailor 
+The Duke of Edinburgh 
+The Steeplechase 
+The Abbey in the West 
+The Mariners' Arms 
+The Grand Sultan 
+The Crov\-n and Sceptre 
+The Quarry 
+The \^^olf 
+The Black Boy 
+The Two Brothers 
+The Battle Axes 
+The Harp 
+The Hare and Hounds 
+The Heart and Hand 
+The Three Crowns 
+The Jubilee Arms 
+The Seven Dials 
+The Railway Guard 
+The Man vers' Arms 
+The Reindeer 
+The Reindeer 
+The Sun and York 
+The Moorcock 
+The Well and Bucket 
+The Vyne 
+The Ostler 
+The Endeavour 
+The Eaton Cottage 
+The Feathers 
+The Feathers 
+The Crown and Two 
+The Wiltshire Lamb 
+The Ninepin 
+The Five Pilchards 
+The Cabinet 
+The Ipswich Arms 
+The New Bell 
+The Life Guards 
+The Prince of Saxe 
+The Three Squirrels 
+The Leather Gaiters 
+The Redclifife Arms 
+The Lady Owen's Arms 
+The Q Stalybridge 
