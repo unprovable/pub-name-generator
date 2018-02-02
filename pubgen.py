@@ -18,7 +18,7 @@ def build_Markov_chain(in_data, chain = {}):
         index += 1
     return chain
 
-def generate_pub_name(chain, leng=random.choice([2,3,4])):
+def generate_pub_name(chain, leng=random.choice([3,4,5])):
     w1 = random.choice(list(chain.keys())).capitalize() # get a word, add a capital letter
     text = w1
     while len(text.split(' ')) < leng:
@@ -37,7 +37,7 @@ if __name__ == "__main__":
     print "[*] generating chain..."
     chain = build_Markov_chain(fileread)
     print "[i] Done! Here are some random names:"
-    for i in range(1,10):
+    for i in range(1,25):
         print generate_pub_name(chain)
 
 
