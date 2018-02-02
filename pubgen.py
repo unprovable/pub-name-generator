@@ -26,7 +26,7 @@ def generate_pub_name(chain, leng=random.choice([3,4,5])):
         w1 = w2
         text += ' '+ w2
     pubname = "The "+text
-    if pubname.endswith("and"):
+    if pubname.endswith("and") or pubname.endswith("the"):
         pubname += " "
         pubname += random.choice(chain["and"])
     return pubname
