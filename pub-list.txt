@@ -420,7 +420,7 @@ The Brick and Tile
 The Peoples 
 The Ship and Horns 
 The Aurora 
-The Bells of Ousele^^ 
+The Bells of Ouselet
 The Spade and Sprocket 
 The Laurels 
 The Vulcan 
@@ -761,7 +761,7 @@ The Golden Star
 The Coronet 
 The Dundas Arms 
 The Old Hat 
-The ^^ iirtemberger Hop 
+The Wirtemberger Hop 
 The Blue Last 
 The Plume of Feathers 
 The Lion and Lamb 
@@ -2145,7 +2145,7 @@ The Hog in the Pound
 The Saint Anne's Cross 
 The Blenheim 
 The Cross Rifles 
-The New ^^^lite Rose 
+The New White Rose 
 The Lady jMildmay 
 The Old Jamaica 
 The Tanners' Arms 
@@ -2754,9 +2754,9 @@ The Steeplechase
 The Abbey in the West 
 The Mariners' Arms 
 The Grand Sultan 
-The Crov\-n and Sceptre 
+The Crow and Sceptre 
 The Quarry 
-The \^^olf 
+The Wolf 
 The Black Boy 
 The Two Brothers 
 The Battle Axes 
