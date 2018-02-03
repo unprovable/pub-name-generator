@@ -22,9 +22,13 @@ def generate_pub_name(chain, leng=random.choice([3,4,5])):
     w1 = random.choice(list(chain.keys())).capitalize() # get a word, add a capital letter
     text = w1
     while len(text.split(' ')) < leng:
-        w2 = random.choice(chain[w1])
-        w1 = w2
-        text += ' '+ w2
+        try:
+            w2 = random.choice(chain[w1])
+            w1 = w2
+            text += ' '+ w2
+        except:
+            pubname = ""
+            break
     pubname = "The "+text
     if pubname.endswith("and") or pubname.endswith("the"):
         pubname += " "
