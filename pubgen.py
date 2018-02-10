@@ -36,12 +36,10 @@ def generate_pub_name(chain, leng=random.choice([3,4,5])):
     return pubname
 
 if __name__ == "__main__":
-    print "[i] loading data..."
+    print("[i] loading data...")
     fileread = read_pubs("pub-list.txt")
-    print "[*] generating chain..."
+    print("[*] generating chain...")
     chain = build_Markov_chain(fileread)
-    print "[i] Done! Here are some random names:"
+    print("[i] Done! Here are some random names:")
     for i in range(1,25):
-        print generate_pub_name(chain)
-
-
+        print(generate_pub_name(chain))
